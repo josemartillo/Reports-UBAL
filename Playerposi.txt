@@ -1,0 +1,980 @@
+AC Green                 SF/PF
+Aaron Gordon             SF/PF
+Al Cervi                 PG/SG
+Alex English             SF
+Al Green                 SG
+Al Horford               C
+Allen Iverson            PG
+Alonzo Mourning          PF/C
+Alvan Adams              PF/C
+Alvin Robertson          PG/SG
+Amare Stoudemire         PF
+Andre Drummond           C
+Andre Iguodala           SF/PF
+Andrei Kirilenko         SF
+Andre Miller             PG
+Andrew Bynum             C
+Andrew Gaze              PG/SG
+Andrew Toney             PG/SG
+Andrew Wiggins           SG/SF
+Andris Biedrins          C
+Andy Phillip             PG/SG
+Anthony Davis            PF/C
+Antoine Walker           SF/PF
+Antonello Riva           SG/SF
+Archie Clark             PG/SG
+Arnie Risen              C
+Artis Gilmore            C
+Arvydas Sabonis          C
+Bailey Howell            SF/PF
+Benny Borgmann           SG/SF
+Bernie Price             PF/C
+Bill Bridges             PF/C
+Bill Laimbeer            PF/C
+Bill Sharman             PG/SG
+Bill Spivey              C
+Bill Walton              C
+Billy Cunningham         SF/PF
+Billy Paultz             C
+Blake Griffin            PF/C
+Boban Marjanovic         C
+Bob Brannum              SF/PF
+Bobby Jackson            PG/SG
+Bobby Jones              SF/PF
+Bobby McDermott          PG/SG
+Bob Cousy                PG/SG
+Bob Dandridge            SF/PF
+Bob Kurland              C
+Bob Lanier               C
+Bob McAdoo               PF/C
+Bob Pettit               PF/C
+Bonzi Wells              SG/SF
+Boris Diaw               SG
+Brad Daugherty           C
+Bradley Beal             SG/SF
+Brad Miller              PF/C
+Brandon Jennings         PG
+Brandon Knight           PG/SG
+Brandon Roy              SG/SF
+Brent Barry              SG
+Brevin Knight            PG
+Brook Lopez              C
+Bruce Bolden             SF/PF
+CJ McCollum              SG
+Calvin Murphy            PG/SG
+Calvin Natt              SF/PF
+Carl Landry              PF
+Carlos Boozer            PF
+Carmelo Anthony          SF
+Cedric Ceballos          SF
+Cedric Maxwell           SF/PF
+Charles Barkley          SF/PF
+Charles Oakley           PF/C
+Chauncey Billups         PG/SG
+Chris Bosh               PF/C
+Chris Mullin             SG/SF
+Chris Paul               PG
+Christian Laettner       PF/C
+Chuck Chuckovits         SG/SF
+Chuck Gilmur             SF/PF
+Chuck Share              C
+Clarence Weatherspoon    SF/PF
+Clark Kellogg            SF/PF
+Cliff Hagan              SF/PF
+Clifford Ray             C
+Clifford Robinson        PF/C
+Cliff Robinson           SF/PF
+Clint Capela             PF/C
+Clyde Drexler            SG/SF
+Clyde Lovellette         PF/C
+Connie Hawkins           SF/PF
+Corey Maggette           SG/SF
+Curly Neal               PG
+Dale Davis               PF/C
+Dale Ellis               SG/SF
+Damian Lillard           PG
+Damon Stoudamire         PG
+D'Angelo Russell         PG/SG
+Dan Issel                C
+Danny Manning            PF/C
+Dan Roundfield           PF/C
+Dante Exum               PG/SG
+Darrell Armstrong        PG
+Dave Bing                PG/SG
+Dave Cowens              C
+Dave DeBusschere         SG/SF
+Dave DeJernett           PF/C
+David Robinson           C
+David Thompson           SG/SF
+David West               PF
+DeAndre Jordan           C
+Demarcus Cousins         PF/C
+Demar DeRozan            SG/SF
+Dennis Johnson           PG/SG
+Dennis Rodman            SF/PF
+Derek Harper             PG/SG
+Deron Williams           PG
+Derrick Coleman          PF/C
+Derrick Favors           PF/C
+Detlef Schrempf          SF/PF
+Devin Booker             SG/SF
+Devin Harris             PG/SG
+Dikembe Mutombo          C
+Dirk Nowitzki            PF
+Dolph Schayes            PF
+Don Buse                 PG/SG
+Don Otten                C
+Donyell Marshall         SF/PF
+Doug Christie            SG/SF
+Doug Moe                 SG/SF
+Draymond Green           PF/C
+Dutch Dehnert            SG/SF
+Dwight Howard            C
+Dwyane Wade              PG/SG
+Earl Manigault           PG/SG
+Earl Monroe              PG/SG
+Eddie Jones              SG
+Ed Macauley              C
+Ed Wachter               PF/C
+Elfrid Payton            PG
+Elgin Baylor             SF/PF
+Elmore Smith             C
+Elton Brand              PF/C
+Emeka Okafor             PF/C
+Emmanuel Mudiay          PG/SG
+Enes Kanter              C
+Eric Bledsoe             PG
+Evan Turner              SG/SF
+Fat Lever                PG/SG
+Fats Jenkins             PG/SG
+Flynn Robinson           PG/SG
+Fred Brown               PG/SG
+Gail Goodrich            PG/SG
+Gary Payton              PG/SG
+Gary Trent               PF
+George Gervin            SG/SF
+George Glamack           PF/C
+George McGinnis          SF/PF
+George Mikan             C
+George Yardley           SG/SF
+Gerald Wallace           SF/PF
+Gheorghe Muresan         C
+Giannis Antetokounmpo    SF/PF
+Gilbert Arenas           PG/SG
+Glenn Robinson           SF/PF
+Glen Rice                SG/SF
+Goose Tatum              PF/C
+Goran Dragic             PG/SG
+Gordon Hayward           SG/SF
+Greg Ballard             SF/PF
+Greg Monroe              C
+Gus Johnson              SF/PF
+Gus Williams             PG/SG
+Hakeem Olajuwon          C
+Hal Greer                SG
+Hank Luisetti            SG/SF
+Hassan Whiteside         C
+Hersey Hawkins           SG
+Horace Grant             PF/C
+Horse Haggerty           C
+Inman Jackson            PF/C
+Isaiah Thomas            PG
+Isiah Thomas             PG
+Jabari Parker            SF/PF
+Jack Sikma               PF/C
+Jack Twyman              SF
+Jahlil Okafor            C
+Jake Pelkington          PF/C
+Jamaal Wilkes            SF/PF
+James Crawford           PF/C
+James Donaldson          C
+James Harden             SG
+James Worthy             SF/PF
+Jared Sullinger          PF/C
+Jason Kidd               PG
+Jason Richardson         SG/SF
+Jason Terry              PG
+Jayson Williams          PF/C
+Jeff Ruland              PF/C
+Jeff Teague              PG
+Jermaine O'Neal          SF/PF
+Jerry Lucas              PF/C
+Jerry Stackhouse         SG/SF
+Jerry West               PG
+Jim Jackson              SG/SF
+Jimmy Butler             SG/SF
+Jim Paxson               SG/SF
+Joakim Noah              PF/C
+Joe Barry Carroll        C
+Joe Johnson              SG/SF
+Joe Lapchick             PF/C
+John Drew                SG/SF
+Johnny Wooden            PG/SG
+John Stockton            PG
+John Wall                PG
+Jonas Valanciunas        C
+Jordan Hill              PF/C
+Jose Calderon            PG
+Jrue Holiday             PG/SG
+Julius Erving            SF/PF
+Julius Randle            PF
+Justise Winslow          SF/PF
+Jusuf Nurkic             C
+Kareem AbdulJabbar       C
+KarlAnthony Towns        PF/C
+Karl Malone              PF/C
+Kawhi Leonard            SF/PF
+Keith VanHorn            SF/PF
+Kemba Walker             PG
+Kenneth Faried           PF/C
+Ken Norman               SF/PF
+Kenny Sears              SF/PF
+Kenyon Martin            PF
+Kevin Durant             SF/PF
+Kevin Garnett            PF/C
+Kevin Johnson            PG
+Kevin Love               PF
+Kevin Martin             SG
+Kevin McHale             PF/C
+Kevin Porter             PG
+Kevin Willis             PF/C
+Kiki Vandeweghe          SF/PF
+Klay Thompson            SG/SF
+Kobe Bryant              SG/SF
+Kresimir Cosic           PF/C
+Kristaps Porzingis       PF/C
+Kyle Lowry               PG/SG
+Kyrie Irving             PG
+LaMarcus Aldridge        PF/C
+Lamond Murray            SF
+Larry Costello           PG
+Larry Foust              PF/C
+Larry Johnson            SF/PF
+Larry Jones              PG/SG
+Larry Kenon              PF/C
+Larry Nance              SF/PF
+Latrell Sprewell         SG
+LeBron James             SF/PF
+Lenny Wilkens            PG/SG
+Leroy Edwards            PF/C
+Leroy Loggins            SG/SF
+Lou Hudson               SG/SF
+Louie Dampier            PG/SG
+Louis Williams           PG/SG
+Loy Vaught               SF/PF
+MR Richardson            PG/SG
+Magic Johnson            PG/SG
+Manu Ginobili            PG/SG
+Marc Gasol               C
+Marcin Gortat            C
+Marcus Camby             PF/C
+Mario Hezonja            SG/SF
+Mark Aguirre             SG/SF
+Mark Davis               PF
+Mark Jackson             PG
+Mark Price               PG
+Marques Haynes           PG
+Marques Johnson          SF/PF
+Marvin Barnes            PF/C
+Mason Plumlee            C
+Maurice Cheeks           PG
+Maurice Lucas            PF/C
+Maurice Stokes           PF/C
+Mel Daniels              C
+Mel Hutchins             SF/PF
+Mel Riebe                PG/SG
+Michael Adams            PG
+Michael Cage             PF/C
+Michael Finley           SG/SF
+Michael Jordan           SG/SF
+Michael Kidd Gilchrist   SF
+Michael Redd             SG
+Mickey Johnson           SF/PF
+Mike Bibby               PG
+Mike Conley              PG
+Mike Mitchell            SF/PF
+Mitch Richmond           PG/SG
+Monta Ellis              SG
+Mookie Blaylock          PG
+Moses Malone             PF/C
+Muggsy Bogues            PG
+Myles Turner             PF/C
+Nate McMillan            PG/SG
+Nate Thurmond            PF/C
+Nat Holman               PG/SG
+Neil Johnston            C
+Nene Hilario             PF/C
+Nerlens Noel             PF/C
+Nick VanExel             PG
+Nikola Jokic             C
+Nikola Mirotic           PF
+Nikola Vucevic           C
+Norm Nixon               PG
+Orlando Woolridge        SF/PF
+Oscar Schmidt            SG/SF
+Otis Birdsong            PG/SG
+Patrick Ewing            C
+Pau Gasol                PF/C
+Paul Arizin              SG/SF
+Paul George              SF/PF
+Paul Millsap             PF
+Paul Pierce              SF/PF
+Paul Pressey             SG/SF
+Paul Westphal            PG/SG
+Peja Stojakovic          SF
+Pete Maravich            PG/SG
+Phil Ford                PG
+Pooh Richardson          PG
+Purvis Short             SG/SF
+Rajon Rondo              PG
+Randy Smith              PG/SG
+Rasheed Wallace          SF/PF
+Ray Allen                SG/SF
+Ray Scott                PF/C
+Ray Williams             PG/SG
+Red Kerr                 C
+Reggie Jackson           PG
+Reggie Miller            SG/SF
+Reggie Theus             PG/SG
+Richard Jefferson        SF/PF
+Richie Guerin            PG/SG
+Rich Kelley              C
+Rick Barry               SF
+Rickey Green             PG
+Ricky Rubio              PG
+Robert Parish            C
+Rod Strickland           PG
+Rolando Blackman         SG/SF
+Ron Artest               SF
+Ron Harper               SG/SF
+Rony Seikaly             C
+Roy Tarpley              PF/C
+Ruben Patterson          SG/SF
+Rudy Gobert              C
+Rudy Tomjanovich         SF/PF
+Russell Westbrook        PG
+Sam Cassell              PG/SG
+Sam Jones                SG/SF
+Sam Lacey                C
+Sam Perkins              PF/C
+Scott Fisher             SF/PF
+Scottie Pippen           SG/SF
+Sean Elliott             SG/SF
+Serge Ibaka              PF
+Sergei Belov             PG/SG
+Shaquille O'Neal         C
+Shareef AbdurRahim       SF/PF
+Shawn Bradley            C
+Shawn Kemp               PF/C
+Shawn Marion             SF/PF
+Sherman White            PF/C
+Sidney Moncrief          PG/SG
+Sleepy Floyd             PG
+Spencer Haywood          PF/C
+Stanley Johnson          SG/SF
+Stan Patrick             SG/SF
+Stephen Curry            PG
+Stephon Marbury          PG
+Steve Mix                SF/PF
+Steve Nash               PG
+Steve Smith              SG
+Swen Nater               C
+TJ Ford                  PG
+Tarzan Cooper            PF/C
+Terrell Brandon          PG
+Terry Cummings           PF/C
+Terry Dischinger         SG/SF
+Terry Porter             PG
+Terry Tyler              SF/PF
+Tim Duncan               PF/C
+Tim Hardaway             PG
+Tiny Archibald           PG/SG
+Tobias Harris            SF/PF
+Tom Boerwinkle           C
+Tom Gola                 SG/SF
+Tom Gugliotta            PF/C
+Tom Heinsohn             PF/C
+Toni Kukoc               SF/PF
+Tracy McGrady            SG/SF
+Truck Robinson           PF/C
+Ty Lawson                PG
+Tyreke Evans             SG/SF
+Tyson Chandler           C
+Vern Mikkelsen           PF/C
+Victor Oladipo           PG/SG
+Vin Baker                PF/C
+Vince Carter             SG/SF
+Vlade Divac              C
+Walt Bellamy             C
+Walt Frazier             PG/SG
+Warren Jabali            SG/SF
+Wayne Embry              C
+Willie CauleyStein       PF/C
+Willie Naulls            SF/PF
+Willie Wise              SF/PF
+Willis Reed              C
+Wilt Chamberlain         C
+WorldB Free              PG/SG
+Xavier McDaniel          SF/PF
+Yao Ming                 C
+Zach LaVine              PG/SG
+Zach Randolph            PF/C
+Zelmo Beaty              C
+Zydrunas Ilgauskas       C
+Open                         #VALUE!
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+                        0PG/SG/SF/PF/C
+     10.924
+     10.766
+     13.432
+     13.515
+     15.815
+     15.891
+     16.183
+     17.891
+     12.866
+     14.414
+     16.805
+     16.979
+      8.720
+     13.593
+     12.115
+      9.027
+     15.792
+      8.736
+     13.432
+     14.007
+     14.475
+     21.691
+     16.289
+     11.950
+     17.597
+     17.012
+     16.418
+     14.042
+     14.119
+     16.223
+     13.490
+     10.389
+      9.349
+      9.643
+     15.752
+     16.429
+     12.873
+     14.106
+     19.221
+      5.721
+     14.467
+     10.310
+     15.527
+     18.082
+     14.831
+     13.711
+     17.814
+     21.114
+     20.142
+     22.968
+      8.742
+      5.560
+     19.466
+     11.874
+      9.360
+     -1.000
+     12.062
+     16.747
+      9.375
+     12.619
+     17.472
+     14.396
+      5.232
+     10.661
+     17.378
+     13.876
+     12.205
+     16.572
+     17.094
+     16.034
+     17.189
+     11.434
+     14.173
+     16.206
+     19.745
+     20.048
+     13.593
+     21.284
+      9.044
+      8.135
+     15.786
+     15.672
+     17.840
+      9.892
+     14.875
+     13.828
+      4.319
+     16.776
+     20.524
+     14.180
+      7.225
+     10.595
+     12.950
+      5.824
+     16.731
+     15.488
+      8.973
+     15.329
+     12.227
+     13.952
+     -3.900
+      5.827
+     15.742
+     18.218
+     11.580
+     14.693
+     11.386
+      9.738
+     16.500
+     17.560
+     20.649
+     16.680
+     11.134
+      7.055
+     15.395
+      9.133
+      8.955
+     15.928
+     15.325
+      8.064
+     -1.000
+     14.929
+     17.429
+     15.176
+      9.556
+     15.616
+      6.125
+     12.881
+     13.919
+     13.432
+     11.721
+     15.696
+     15.156
+     14.897
+     15.729
+     15.130
+     16.431
+     15.331
+     10.575
+     18.675
+     16.816
+     19.782
+     14.290
+      8.130
+     14.021
+     15.131
+     11.013
+     19.279
+     11.936
+      7.302
+      3.985
+      9.089
+     14.813
+     15.296
+      9.406
+     15.044
+     18.341
+     21.573
+     18.996
+     13.199
+     15.838
+     16.155
+     20.152
+     15.929
+     12.179
+     13.585
+     13.572
+     13.637
+     14.403
+     16.241
+     15.961
+     13.537
+     17.699
+      9.641
+     17.232
+      4.839
+     12.225
+      7.628
+     13.437
+     12.403
+     15.867
+     11.698
+     11.846
+      9.035
+     18.674
+     13.767
+     12.522
+     14.051
+     13.916
+     10.535
+     20.408
+     12.259
+     11.786
+     14.323
+     16.929
+      8.303
+     10.275
+     12.431
+     15.147
+      5.793
+     18.803
+     15.066
+     17.730
+     16.718
+     17.520
+     14.833
+      8.783
+     14.446
+      8.073
+     12.179
+     16.141
+     15.335
+     15.420
+     17.700
+     14.397
+     12.074
+      7.287
+     13.924
+     14.407
+     11.115
+      6.333
+      8.329
+     18.144
+     18.265
+     22.247
+     19.723
+     13.300
+     16.305
+     13.774
+     11.988
+     14.012
+     16.606
+     23.298
+     17.641
+     19.023
+     13.949
+      3.150
+      8.935
+     11.434
+     13.104
+     14.106
+     15.108
+     19.106
+     13.897
+     11.972
+     13.553
+     14.453
+     17.232
+      6.891
+     14.730
+     15.336
+     17.121
+     15.133
+     15.780
+      6.829
+     18.185
+     22.840
+     14.399
+     19.711
+     13.255
+     18.277
+     11.715
+     10.315
+     12.267
+     10.950
+     -1.000
+      8.584
+     14.924
+     14.312
+     15.251
+      5.087
+     16.892
+     15.537
+     11.189
+     16.605
+     12.623
+     17.198
+     17.350
+     11.281
+     12.368
+     12.334
+     17.996
+     15.938
+     12.520
+     14.364
+     18.307
+     13.617
+     17.430
+     22.199
+     12.687
+     11.183
+     11.805
+     14.341
+     14.846
+     14.925
+     14.129
+     14.574
+     11.176
+     15.192
+     12.091
+     10.258
+      9.932
+      9.390
+     11.151
+     20.955
+     15.543
+     12.498
+     13.474
+     12.674
+     12.363
+     18.474
+     13.488
+     13.515
+     16.733
+     14.503
+     16.148
+     19.409
+     18.682
+     16.033
+     16.065
+     15.526
+     12.634
+     17.167
+     19.821
+     15.787
+     11.874
+     15.288
+     13.885
+     15.301
+     15.402
+     12.346
+     12.039
+     14.294
+     10.798
+     11.720
+     11.415
+     14.202
+     13.625
+     16.827
+     19.260
+      9.439
+     12.566
+     14.500
+     12.202
+     14.758
+     11.281
+     12.153
+      9.973
+     11.928
+     13.302
+      8.361
+     11.109
+     12.708
+     21.009
+     22.317
+     10.897
+     10.789
+     13.022
+     11.146
+     15.838
+     11.882
+     13.057
+     11.164
+     11.021
+     18.644
+     17.861
+      8.318
+     12.404
+     14.201
+     15.812
+     15.687
+     16.465
+     17.965
+      5.616
+     12.267
+     24.935
+     17.166
+     10.270
+     17.567
+     14.673
+     14.172
+     12.723
+     15.172
+      7.169
+     16.289
+     15.799
+     10.641
+     11.356
+     16.342
+     18.421
+     19.473
+     13.858
+     11.669
+     12.177
+     17.288
+     14.726
+     12.745
+     12.017
+     15.675
+      5.762
+     13.500
+     12.003
+     16.939
+     13.318
+     15.875
+     16.201
+     12.196
+     24.493
+     17.737
+     14.332
+     15.639
+      9.186
+     16.186
+     11.022
+     17.463
+     20.043
+     10.652
+     11.860
+     20.775
+     10.006
+     12.216
+     10.469
+      9.715
+      0.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000
+     -1.000

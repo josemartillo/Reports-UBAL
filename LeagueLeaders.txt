@@ -1,0 +1,504 @@
+-----------------------------------------------------------------------------
+          FG        FT        3P       REB                               PTS/
+      G   M-A       M-A       M-A      O-T      A    PF  BLK   TO  STL   GAME
+-----------------------------------------------------------------------------
+
+VIR  54  47- 93    26- 32    6- 15    14- 48    31   26    5   18   11  124.4
+TOR  53  43- 91    31- 40    7- 22    16- 49    31   24    5   17    9  124.2
+SAS  53  46- 93    28- 36    4- 12    15- 48    33   26    4   18   12  124.1
+HOU  53  47- 92    24- 30    5- 14    13- 48    35   29    5   18   13  122.1
+NJA  54  43- 89    31- 38    4- 14    12- 45    28   24    6   17    9  120.9
+OKC  53  44- 91    26- 35    5- 14    14- 47    31   28    7   17    9  119.5
+DET  55  46- 92    24- 32    3- 10    13- 47    32   26    6   16   10  119.2
+KEN  52  45- 92    25- 32    4- 13    12- 44    30   26    6   15    8  118.8
+UTA  55  45- 91    24- 33    4- 13    15- 49    32   26    6   16   11  118.5
+PIT  54  43- 89    28- 36    5- 15    14- 47    29   27    7   18   10  118.0
+ORL  53  43- 90    26- 35    6- 16    14- 50    30   25    7   17   10  118.0
+ANA  54  42- 91    28- 34    5- 16    13- 48    27   25    7   17    8  117.5
+SYR  54  45- 93    23- 28    4- 12    13- 48    33   24    6   18    8  117.4
+MIN  53  43- 94    23- 30    7- 19    15- 51    30   25    7   16    9  117.1
+SDQ  54  44- 90    25- 32    4- 13    13- 47    31   27    6   18   10  116.7
+TRN  53  44- 91    25- 32    3- 10    15- 46    28   26    7   16    9  115.5
+WAS  54  43- 92    24- 30    7- 18    14- 49    28   25    7   17   11  115.5
+CAR  53  42- 92    26- 33    4- 11    15- 46    28   24    4   16    8  114.1
+DAL  56  43- 91    23- 31    4- 11    13- 46    28   26    6   17    8  113.9
+MIA  55  42- 91    21- 28    8- 21    14- 48    29   25    6   18   11  113.6
+BOS  54  43- 93    22- 28    5- 16    13- 48    31   26    6   19    9  113.1
+CLE  55  43- 91    21- 28    5- 15    14- 45    29   29    6   17    8  112.7
+ROC  53  41- 89    27- 35    4- 11    13- 46    26   26    7   17    7  112.2
+KCO  55  43- 91    21- 29    4- 12    13- 46    25   29    8   17   10  110.6
+POR  54  41- 88    25- 32    4- 13    11- 42    27   28    6   19   11  110.1
+DEN  55  42- 92    20- 28    6- 18    15- 47    23   29    6   17    8  109.9
+BAL  56  41- 89    23- 32    5- 16    13- 44    27   26    8   19   14  109.7
+OAK  55  44- 94    17- 22    4- 12    16- 44    27   29    6   18    8  109.5
+PHO  54  41- 93    20- 26    5- 15    15- 48    25   30    6   17    8  107.3
+BRK  54  41- 92    16- 23    4- 15    13- 42    21   31    6   18   10  102.1
+-----------------------------------------------------------------------------
+AVE  54  43- 91    24- 31    5- 14    14- 47    29   27    6   17   10  115.5
+-----------------------------------------------------------------------------
+
+
+                            DEFENSIVE TEAM TOTALS
+-----------------------------------------------------------------------------
+          FG        FT        3P       REB                               PTS/
+      G   M-A       M-A       M-A      O-T      A    PF  BLK   TO  STL   GAME
+-----------------------------------------------------------------------------
+
+ORL  53  39- 91    23- 30    4- 13    14- 45    25   28    6   17   10  105.4
+UTA  55  40- 89    23- 29    4- 14    13- 44    26   28    7   18   10  107.1
+WAS  54  41- 92    22- 29    4- 15    14- 48    28   26    6   17   10  109.1
+PHO  54  40- 85    28- 37    5- 15    13- 47    26   24    7   16   10  111.7
+MIN  53  42- 91    22- 29    5- 14    12- 47    28   26    6   16   10  111.9
+MIA  55  42- 91    22- 28    5- 14    13- 46    29   25    7   17   11  112.0
+DET  55  42- 93    23- 31    4- 15    16- 48    28   27    6   18    9  112.3
+SDQ  54  42- 91    25- 33    4- 13    14- 46    29   27    7   18   10  112.3
+KCO  55  41- 89    27- 35    5- 15    14- 49    28   25    6   17   10  113.3
+HOU  53  41- 89    27- 36    5- 15    13- 44    27   27    6   18   10  114.1
+ANA  54  43- 94    23- 30    5- 15    14- 48    29   27    7   16    9  114.7
+TRN  53  43- 90    23- 30    5- 16    14- 45    29   27    7   17   10  114.8
+BAL  56  43- 93    24- 31    5- 14    17- 52    29   27    6   19   10  114.9
+SYR  54  45- 94    21- 27    5- 15    13- 45    29   25    6   16    9  115.2
+VIR  54  44- 91    24- 31    5- 14    12- 43    29   27    6   18   11  115.9
+BOS  54  44- 93    22- 30    5- 14    13- 47    29   25    6   18   10  116.0
+POR  54  43- 91    25- 33    5- 15    15- 49    28   28    6   19    9  116.1
+ROC  53  44- 95    23- 30    5- 17    16- 51    29   28    6   17    9  116.2
+PIT  54  44- 93    24- 31    4- 15    15- 46    29   29    6   17    8  117.3
+TOR  53  45- 93    22- 28    5- 13    13- 46    30   30    6   18    9  117.3
+DAL  56  45- 92    23- 30    5- 15    13- 46    31   27    6   17   10  117.7
+DEN  55  44- 90    25- 33    5- 14    13- 47    30   25    6   16   11  117.8
+KEN  52  45- 93    24- 31    6- 15    15- 48    30   27    6   17    9  118.7
+OKC  53  44- 91    28- 35    4- 13    14- 46    29   29    6   16    9  119.5
+CLE  55  44- 89    27- 35    5- 14    14- 47    30   24    7   16    9  119.5
+CAR  53  47- 92    21- 27    5- 14    13- 48    30   28    6   17    9  119.6
+BRK  54  43- 88    29- 37    5- 13    14- 51    29   23    6   17   10  120.4
+SAS  53  46- 91    23- 30    5- 14    11- 43    30   28    6   18   10  120.5
+NJA  54  47- 95    22- 28    6- 16    14- 47    30   30    6   17    9  120.5
+OAK  55  46- 89    26- 33    5- 14    13- 45    31   23    6   16   10  123.3
+-----------------------------------------------------------------------------
+AVE  54  43- 91    24- 31    5- 14    14- 47    29   27    6   17   10  115.5
+-----------------------------------------------------------------------------
+
+
+
+-----------------------------------------------------------------------------
+                               SCORING LEADERS
+                   Pts/                       Pts/                      Pts/
+Player       Team  Game    Player       Team  Game    Player      Team  Game
+-----------------------------------------------------------------------------
+S Curry      VIR   26.2    J Twyman     ROC   19.2    J Stackhouse NJA  17.5
+K Bryant     SDQ   24.1    C Anthony    CLE   19.1    K Johnson    DAL  17.4
+G Arenas     PIT   23.1    J Butler     DET   19.0    I Thomas     NJA  17.4
+M Jordan     UTA   23.0    A Davis      SAS   18.8    C Natt       SAS  17.3
+P Stojakovic MIN   23.0    O Schmidt    TOR   18.7    A Green      CLE  17.3
+J Harden     BOS   22.1    E Monroe     POR   18.7    S Moncrief   VIR  17.2
+M Aguirre    ORL   21.7    S AbdurRahim DET   18.6    K Towns      OAK  17.0
+L Hudson     MIA   21.5    D Nowitzki   DAL   18.5    B Lanier     WAS  17.0
+K Durant     HOU   21.1    W Bellamy    SDQ   18.4    C Paul       HOU  16.7
+G Yardley    KEN   20.8    P Pierce     ORL   18.4    B Roy        SDQ  16.6
+T Archibald  TRN   20.6    E Brand      ORL   18.3    B Griffin    UTA  16.6
+L Sprewell   PIT   20.5    D Lillard    ANA   18.3    B Spivey     BAL  16.4
+R Westbrook  SAS   20.5    D Cousins    OKC   18.2    M Adams      TOR  16.3
+L James      SYR   20.3    J Jackson    ROC   18.2    K VanHorn    DEN  16.2
+K Malone     TOR   20.0    M Finley     CAR   18.2    K Thompson   WAS  16.1
+R Tomjanovic UTA   19.7    P Arizin     MIN   18.0    R Jefferson  POR  15.9
+H Luisetti   DAL   19.6    C Mullin     ANA   17.9    S Nash       SYR  15.8
+R Guerin     KEN   19.5    B Pettit     MIN   17.8    L Aldridge   BOS  15.7
+Y Ming       MIA   19.5    E Baylor     OKC   17.7    P Westphal   UTA  15.6
+B McDermott  DEN   19.3    K Leonard    HOU   17.6    A Stoudemire POR  15.6
+-----------------------------------------------------------------------------
+
+
+
+
+
+                            INDIVIDUAL LEADERS
+-----------------------------------------------------------------------------
+        FG PCT.                    FT PCT                  3-POINT PCT.     
+                   FG                         FT                        3-P 
+Player       Team  Pct.    Player       Team  Pct.    Player      Team  Pct.
+-----------------------------------------------------------------------------
+W Chamberlai ORL  0.713    J Wooden     KEN  0.952    D Schrempf   CAR 0.493
+D Jordan     PIT  0.674    S Nash       SYR  0.938    D Ellis      DAL 0.490
+A Biedrins   KEN  0.632    K Durant     HOU  0.929    M Richmond   CAR 0.470
+A Gilmore    VIR  0.620    C Mullin     ANA  0.918    J Stockton   DET 0.470
+S O'Neal     UTA  0.604    C Paul       HOU  0.917    C McCollum   OAK 0.451
+G Muresan    DAL  0.588    P Stojakovic MIN  0.911    K Leonard    HOU 0.451
+N Hilario    PIT  0.586    Y Ming       MIA  0.910    B Barry      CLE 0.437
+R Parish     VIR  0.579    S Curry      VIR  0.904    C Kellogg    SAS 0.423
+E Brand      ORL  0.575    B Knight     BOS  0.899    S Curry      VIR 0.423
+L James      SYR  0.570    S AbdurRahim DET  0.898    K Love       MIA 0.421
+K Garnett    PIT  0.562    D Nowitzki   DAL  0.898    P Stojakovic MIN 0.419
+W Bellamy    SDQ  0.560    D Armstrong  OAK  0.889    D Harper     WAS 0.418
+L Aldridge   BOS  0.560    G Robinson   ANA  0.888    B Beal       DAL 0.418
+K Towns      OAK  0.555    R Rubio      HOU  0.885    M Price      MIA 0.418
+S Marion     UTA  0.554    W Naulls     MIN  0.884    M Redd       HOU 0.416
+E Okafor     MIA  0.553    L Kenon      ROC  0.883    J Twyman     ROC 0.415
+M Davis      NJA  0.552    A Gaze       NJA  0.882    J Teague     WAS 0.413
+A Stoudemire POR  0.552    D Lillard    ANA  0.880    A Riva       BAL 0.410
+E Kanter     OAK  0.549    K VanHorn    DEN  0.880    K Walker     WAS 0.410
+G Monroe     UTA  0.544    S Belov      CAR  0.879    P Arizin     MIN 0.407
+K Durant     HOU  0.539    K Leonard    HOU  0.878    R Rondo      HOU 0.405
+P Gasol      TOR  0.539    S Fisher     VIR  0.877    M Jackson    BOS 0.402
+N Jokic      HOU  0.538    K Walker     WAS  0.877    T Porter     MIA 0.402
+R Tomjanovic UTA  0.538    T Porter     MIA  0.875    M Aguirre    ORL 0.399
+K Faried     PHO  0.538    J Harden     BOS  0.873    J Paxson     ORL 0.394
+S Fisher     VIR  0.537    S Cassell    DET  0.872    O Schmidt    TOR 0.393
+C Natt       SAS  0.535    T Archibald  TRN  0.870    J Wall       ORL 0.389
+C Lovellette MIN  0.535    R Jefferson  POR  0.869    E Jones      KCO 0.388
+M Camby      CLE  0.530    L Sprewell   PIT  0.868    R Barry      KEN 0.386
+L Nance      OAK  0.530    J Paxson     ORL  0.867    C Billups    CLE 0.386
+-----------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------
+  OFFENSIVE REBOUNDING        TOTAL REBOUNDING               ASSISTS 
+                   O-R/                       Reb/                      Ast/
+Player       Team  Game    Player       Team  Game    Player      Team  Game
+-----------------------------------------------------------------------------
+W Chamberlai ORL   4.85    W Chamberlai ORL  15.15    K Johnson    DAL  11.50
+J Lucas      WAS   4.73    J Lucas      WAS  12.90    J Kidd       MIN  11.21
+A Drummond   DEN   4.64    D Jordan     PIT  12.65    J Wall       ORL   9.96
+D Jordan     PIT   4.48    A Drummond   DEN  11.24    R Westbrook  SAS   9.89
+M Malone     CAR   4.10    W Bellamy    SDQ  10.70    M Price      MIA   9.53
+E Kanter     OAK   3.93    C Barkley    TOR  10.65    S Nash       SYR   9.32
+C Barkley    TOR   3.84    M Stokes     SYR  10.41    S Floyd      SDQ   8.93
+M Camby      CLE   3.50    M Camby      CLE  10.06    J Stockton   DET   8.90
+K Faried     PHO   3.38    M Malone     CAR   9.81    T Archibald  TRN   8.85
+M Stokes     SYR   3.22    B Pettit     MIN   9.66    M Adams      TOR   8.75
+B Pettit     MIN   3.17    P Gasol      TOR   9.31    W Frazier    UTA   8.48
+T Cooper     BAL   3.17    L Foust      KCO   9.29    C Paul       HOU   8.30
+W Bellamy    SDQ   3.15    L Johnson    ANA   9.24    J Teague     WAS   8.06
+P Gasol      TOR   3.08    B Lanier     WAS   9.21    R Rondo      HOU   8.04
+E Brand      ORL   3.02    T Cooper     BAL   9.06    F Lever      SAS   7.96
+J Sullinger  BOS   2.89    T Duncan     UTA   9.00    C Billups    CLE   7.79
+T Duncan     UTA   2.84    S Haywood    ROC   8.98    L Wilkens    KEN   7.79
+R Gobert     HOU   2.75    B McAdoo     NJA   8.92    A Cervi      TRN   7.42
+R Parish     VIR   2.71    E Baylor     OKC   8.59    I Thomas     POR   7.12
+S Haywood    ROC   2.71    K Towns      OAK   8.45    T Evans      OKC   7.00
+E Baylor     OKC   2.69    R Parish     VIR   8.37    D Lillard    ANA   6.94
+E Okafor     MIA   2.66    E Okafor     MIA   8.36    J Harden     BOS   6.83
+B Lanier     WAS   2.64    E Brand      ORL   8.23    K Lowry      PHO   6.69
+L Aldridge   BOS   2.60    T Gugliotta  ANA   8.07    M Haynes     BAL   6.67
+A Stoudemire POR   2.59    D Cousins    OKC   8.07    F Jenkins    OAK   6.62
+N Jokic      HOU   2.58    C Lovellette MIN   8.00    G Arenas     PIT   6.54
+K Towns      OAK   2.58    B Spivey     BAL   7.96    N McMillan   KCO   6.49
+N Noel       CLE   2.58    A Davis      SAS   7.77    C Drexler    TOR   6.43
+L Foust      KCO   2.51    E Kanter     OAK   7.71    J Holiday    PHO   6.41
+J Kidd       MIN   2.48    L Kenon      ROC   7.67    A Miller     CAR   6.35
+-----------------------------------------------------------------------------
+
+
+
+
+
+                            INDIVIDUAL LEADERS
+-----------------------------------------------------------------------------
+        BLOCKS                   TURNOVERS                    STEALS
+                   Blk/                       TO/                       Stl/
+Player       Team  Game    Player       Team  Game    Player      Team  Game
+-----------------------------------------------------------------------------
+W Chamberlai ORL   2.60    R Westbrook  SAS   4.79    D Christie   BAL  2.95
+A Mourning   ANA   2.50    J Harden     BOS   4.31    F Lever      SAS  2.81
+E Smith      ROC   2.35    J Wall       ORL   4.16    B Cousy      BAL  2.66
+N Thurmond   PHO   2.33    E Bledsoe    PHO   3.90    W Frazier    UTA  2.60
+M Camby      CLE   2.26    J Kidd       MIN   3.87    C Paul       HOU  2.57
+C Lovellette MIN   2.21    K Johnson    DAL   3.67    R Westbrook  SAS  2.57
+B Spivey     BAL   2.17    S Nash       SYR   3.57    L Hudson     MIA  2.44
+B Kurland    KCO   2.08    G Arenas     PIT   3.46    I Thomas     POR  2.35
+W Bellamy    SDQ   2.02    H Luisetti   DAL   3.45    H Luisetti   DAL  2.31
+D Jordan     PIT   1.96    C Hagan      PIT   3.44    M Adams      TOR  2.28
+B Lanier     WAS   1.94    M Adams      TOR   3.43    G Arenas     PIT  2.22
+B Pettit     MIN   1.94    E Mudiay     OAK   3.42    S Curry      VIR  2.19
+M Stokes     SYR   1.85    J Stackhouse NJA   3.41    K Leonard    HOU  2.18
+P Gasol      TOR   1.85    R Rondo      HOU   3.35    J Wall       ORL  2.12
+K AbdulJabba KEN   1.85    I Thomas     POR   3.30    J Butler     DET  2.11
+T Cooper     BAL   1.83    K Bryant     SDQ   3.27    J Kidd       MIN  2.10
+S Haywood    ROC   1.79    J Holiday    PHO   3.23    C Drexler    TOR  2.06
+T McGrady    TRN   1.75    N Holman     BRK   3.14    S Floyd      SDQ  2.04
+T Duncan     UTA   1.74    B McDermott  DEN   3.13    K Bryant     SDQ  2.00
+E Okafor     MIA   1.74    K Lowry      PHO   3.10    E Jones      KCO  1.96
+B Jones      MIA   1.73    W Frazier    UTA   3.06    J Stockton   DET  1.90
+N Johnston   NJA   1.70    S Curry      VIR   3.04    B Jones      MIA  1.87
+A Davis      SAS   1.64    T Archibald  TRN   3.02    M Jordan     UTA  1.82
+L Foust      KCO   1.49    L James      SYR   3.00    M Price      MIA  1.80
+E Brand      ORL   1.49    D Lillard    ANA   3.00    E Bledsoe    PHO  1.79
+B Walton     DET   1.49    T Gugliotta  ANA   2.94    F Jenkins    OAK  1.79
+D Robinson   SYR   1.46    J Jackson    ROC   2.88    M Haynes     BAL  1.78
+C Hagan      PIT   1.43    A Stoudemire POR   2.84    V Oladipo    BOS  1.73
+D Mutombo    DAL   1.42    B Cousy      BAL   2.84    J Teague     WAS  1.73
+J Erving     DET   1.40    K VanHorn    DEN   2.82    N Holman     BRK  1.69
+-----------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------------------------------------------------
+    MINUTES PLAYED             PERSONAL FOULS            TECHNICAL FOULS     
+                   Min/                       PF/                            
+Player       Team  Game    Player       Team  Game    Player      Team  TF
+-----------------------------------------------------------------------------
+M Finley     CAR  38.89    J Pelkington DEN   4.59    B McDermott  DEN    12
+W Chamberlai ORL  37.83    A Stoudemire POR   4.56    K Bryant     SDQ    11
+L Hudson     MIA  37.80    W Bellamy    SDQ   4.50    D Jordan     PIT    10
+T Archibald  TRN  37.41    E Brand      ORL   4.45    D Green      POR     8
+L Sprewell   PIT  37.23    A Drummond   DEN   4.44    C Barkley    TOR     8
+R Guerin     KEN  37.18    T Cooper     BAL   4.43    R Westbrook  SAS     8
+H Luisetti   DAL  37.04    K Towns      OAK   4.27    D West       KEN     8
+G Arenas     PIT  37.00    N Jokic      HOU   4.26    C Hagan      PIT     8
+J Lucas      WAS  36.80    Y Ming       MIA   4.24    R Patterson  BRK     7
+K Bryant     SDQ  36.53    R Guerin     KEN   4.24    T Heinsohn   SDQ     7
+K Johnson    DAL  36.28    D Cousins    OKC   4.20    B Cunningham POR     6
+E Monroe     POR  35.89    J Twyman     ROC   4.17    D Cousins    OKC     6
+G Yardley    KEN  35.77    D Jordan     PIT   4.17    X McDaniel   OKC     6
+B McDermott  DEN  35.70    B Kurland    KCO   4.13    J Lucas      WAS     6
+J Butler     DET  35.57    C Hagan      PIT   4.13    T McGrady    TRN     6
+R Tomjanovic UTA  35.44    A Davis      SAS   4.08    T Cooper     BAL     6
+J Jackson    ROC  35.23    M Turner     BRK   4.07    I Thomas     NJA     6
+S Haywood    ROC  35.02    E Macauley   BRK   4.06    K Durant     HOU     5
+F Lever      SAS  34.74    L Foust      KCO   4.05    D Marshall   PHO     5
+E Baylor     OKC  34.67    P Millsap    VIR   4.02    K Malone     TOR     5
+D Christie   BAL  34.64    A Mourning   ANA   3.98    S Cassell    DET     5
+J Twyman     ROC  34.58    N Johnston   NJA   3.98    B Lanier     WAS     5
+P Stojakovic MIN  34.58    C Lovellette MIN   3.92    C Maxwell    SDQ     5
+S AbdurRahim DET  34.51    S Johnson    BRK   3.92    G Monroe     UTA     5
+W Frazier    UTA  34.38    S O'Neal     UTA   3.91    L Johnson    ANA     5
+S Moncrief   VIR  34.35    B Lanier     WAS   3.89    D Schayes    TRN     5
+P Pierce     ORL  34.22    E Baylor     OKC   3.87    P Stojakovic MIN     5
+M Jordan     UTA  34.20    G Muresan    DAL   3.87    R Smith      MIN     5
+J Wall       ORL  33.94    M Stokes     SYR   3.85    T Cummings   CAR     5
+M Price      MIA  33.86    L Vaught     PHO   3.83    L Sprewell   PIT     5
+-----------------------------------------------------------------------------
+
+
+
+
+
+                            INDIVIDUAL LEADERS
+-----------------------------------------------------------------------------
+        TS PCT.                 A/TO RATIO                   3-P FGM        
+                   TS                        A/TO                        3-P
+Player       Team  Pct.    Player       Team Ratio    Player      Team   FGM
+-----------------------------------------------------------------------------
+W Chamberlai ORL  0.679    D Harper     WAS   4.56    S Curry      VIR    175
+A Gilmore    VIR  0.671    J Stockton   DET   4.23    P Stojakovic MIN    138
+C Mullin     ANA  0.649    F Lever      SAS   4.06    M Adams      TOR    128
+K Durant     HOU  0.646    L Wilkens    KEN   4.02    M Price      MIA    124
+A Gaze       NJA  0.645    W Chamberlai ORL   3.74    G Arenas     PIT    116
+R Tomjanovic UTA  0.643    B Knight     OKC   3.60    M Aguirre    ORL    112
+P Pressey    SYR  0.642    M Price      MIA   3.52    O Schmidt    TOR     97
+A Biedrins   KEN  0.641    N McMillan   KCO   3.47    K Thompson   WAS     97
+P Stojakovic MIN  0.634    R Green      VIR   3.46    E Jones      KCO     95
+E Brand      ORL  0.633    C Billups    CLE   3.39    R Tomjanovic UTA     94
+S Curry      VIR  0.633    A Cervi      TRN   3.34    B McDermott  DEN     93
+C Maxwell    SDQ  0.632    S Floyd      SDQ   3.25    L Hudson     MIA     84
+O Schmidt    TOR  0.623    C Paul       HOU   3.24    C Billups    CLE     83
+N Hilario    PIT  0.622    A Miller     CAR   3.17    L Sprewell   PIT     78
+J Stockton   DET  0.619    M Jackson    BOS   3.16    J Harden     BOS     77
+J Paxson     ORL  0.619    M Conley     ORL   3.16    D Lillard    ANA     76
+D Jordan     PIT  0.618    S Cassell    DET   3.15    G McGinnis   MIA     76
+L James      SYR  0.617    K Johnson    DAL   3.14    A Riva       BAL     71
+R Parish     VIR  0.615    C Drexler    TOR   2.96    P Maravich   ROC     70
+T Archibald  TRN  0.612    T Archibald  TRN   2.93    C Mullin     ANA     70
+P Westphal   UTA  0.612    L Jones      TOR   2.92    M Redd       HOU     69
+E Jones      KCO  0.609    J Teague     WAS   2.91    D Harper     WAS     69
+A Clark      SAS  0.609    B Roy        SDQ   2.91    P Westphal   UTA     69
+M Davis      NJA  0.608    J Kidd       MIN   2.90    P Arizin     MIN     68
+R Theus      SAS  0.607    T Ford       KEN   2.86    K Love       MIA     64
+K Malone     TOR  0.605    W Frazier    UTA   2.77    S Nash       SYR     63
+S Fisher     VIR  0.604    R Rubio      HOU   2.77    G Rice       DEN     62
+R Westbrook  SAS  0.604    A Phillip    VIR   2.76    J Richardson TOR     62
+B Walton     DET  0.603    T Evans      OKC   2.72    D Christie   BAL     62
+N Johnston   NJA  0.601    M Haynes     BAL   2.68    I Thomas     NJA     61
+-----------------------------------------------------------------------------
+
+
+
+
+
+--------------------------------------------------------------------------------
+    OFF PTS PER MIN           DEF PTS PER MIN              NET PTS PER MIN
+                   Off pt/                    Def pt/                   Net pt/
+Player       Team  Min     Player       Team  Min     Player      Team  Min
+--------------------------------------------------------------------------------
+A Phillip    VIR   2.72    E Brand      ORL   2.07    E Brand      ORL    .39
+A Gilmore    VIR   2.70    W Chamberlai ORL   2.10    W Chamberlai ORL    .33
+R Green      VIR   2.68    M Aguirre    ORL   2.12    B Walton     DET    .32
+L Jones      TOR   2.67    J Wall       ORL   2.14    K Garnett    PIT    .29
+J Richardson TOR   2.65    B Kurland    KCO   2.15    M Aguirre    ORL    .28
+S Fisher     VIR   2.64    P Pierce     ORL   2.15    J Wall       ORL    .28
+A Biedrins   KEN   2.64    T Duncan     UTA   2.16    P Pierce     ORL    .27
+B Griffin    UTA   2.62    A Kirilenko  WAS   2.16    Y Ming       MIA    .27
+W Reed       SAS   2.61    J Kidd       MIN   2.17    R Gobert     HOU    .27
+P Pressey    SYR   2.61    J Butler     DET   2.17    T Duncan     UTA    .26
+A Gaze       NJA   2.61    C Lovellette MIN   2.18    J Butler     DET    .26
+J Ruland     VIR   2.60    B Howell     KCO   2.18    W Frazier    UTA    .26
+R Rubio      HOU   2.60    J Teague     WAS   2.18    J Kidd       MIN    .24
+A Clark      SAS   2.59    B Jones      MIA   2.18    C Natt       SAS    .24
+K Malone     TOR   2.59    W Frazier    UTA   2.19    J Paxson     ORL    .24
+G Trent      KEN   2.59    E Okafor     MIA   2.19    K Durant     HOU    .23
+C Barkley    TOR   2.59    B Lanier     WAS   2.20    S Marion     UTA    .23
+A Walker     ANA   2.58    S Marion     UTA   2.20    K Leonard    HOU    .23
+B Walton     DET   2.58    E Jones      KCO   2.20    C Lovellette MIN    .22
+I Thomas     NJA   2.57    L Foust      KCO   2.20    A Robertson  HOU    .22
+K Durant     HOU   2.57    B Cousy      BAL   2.20    C Paul       HOU    .22
+A Robertson  HOU   2.57    Y Ming       MIA   2.20    P Arizin     MIN    .21
+R Tomjanovic UTA   2.57    M Price      MIA   2.21    D Harper     WAS    .21
+P Gasol      TOR   2.57    T McGrady    TRN   2.21    W Bellamy    SDQ    .21
+C Kellogg    SAS   2.57    D Jordan     PIT   2.21    A Gilmore    VIR    .20
+F Lever      SAS   2.57    B Pettit     MIN   2.22    S Curry      VIR    .20
+M Johnson    PIT   2.56    C Share      PHO   2.22    J Ruland     VIR    .20
+M Adams      TOR   2.56    N Thurmond   PHO   2.22    B Pettit     MIN    .20
+J Lapchick   TOR   2.56    P Arizin     MIN   2.23    F Lever      SAS    .20
+P Millsap    VIR   2.56    A Mourning   ANA   2.23    C Barkley    TOR    .20
+--------------------------------------------------------------------------------
+
+
+
+
+
+                            INDIVIDUAL LEADERS
+-----------------------------------------------------------------------------
+     TOTAL RATING                 OFF RATING                DEF RATING       
+                   UBA/                       OFF/                      DEF/ 
+Player       Team  Rtg     Player       Team  Rtg     Player      Team  Rtg
+-----------------------------------------------------------------------------
+S Curry      VIR  25.95    S Curry      VIR  22.41    W Chamberlai ORL  7.03
+R Westbrook  SAS  23.58    T Archibald  TRN  20.03    M Camby      CLE  5.24
+T Archibald  TRN  22.02    R Westbrook  SAS  19.51    B Cousy      BAL  5.20
+K Bryant     SDQ  21.39    P Stojakovic MIN  18.60    M Stokes     SYR  5.10
+W Chamberlai ORL  21.34    G Arenas     PIT  18.26    B Jones      MIA  5.05
+G Arenas     PIT  21.21    K Bryant     SDQ  18.13    D Jordan     PIT  5.05
+F Lever      SAS  21.11    R Tomjanovic UTA  18.00    F Lever      SAS  4.98
+P Stojakovic MIN  21.08    K Johnson    DAL  17.90    B Pettit     MIN  4.84
+L James      SYR  20.77    L James      SYR  17.66    W Bellamy    SDQ  4.69
+R Tomjanovic UTA  20.72    K Malone     TOR  17.11    B Lanier     WAS  4.64
+M Jordan     UTA  20.43    K Durant     HOU  17.08    D Christie   BAL  4.54
+E Brand      ORL  20.25    L Sprewell   PIT  17.04    E Baylor     OKC  4.48
+W Bellamy    SDQ  20.15    J Harden     BOS  16.83    K Leonard    HOU  4.46
+L Sprewell   PIT  20.10    E Brand      ORL  16.82    C Lovellette MIN  4.45
+K Durant     HOU  20.06    M Jordan     UTA  16.72    B Spivey     BAL  4.44
+K Johnson    DAL  20.04    M Price      MIA  16.32    T Cooper     BAL  4.34
+C Paul       HOU  19.97    C Paul       HOU  16.32    A Davis      SAS  4.29
+J Harden     BOS  19.92    G Yardley    KEN  16.19    T Gugliotta  ANA  4.29
+G Yardley    KEN  19.77    F Lever      SAS  16.12    D Green      POR  4.28
+K Malone     TOR  19.51    R Guerin     KEN  15.78    T Duncan     UTA  4.25
+H Luisetti   DAL  19.36    H Luisetti   DAL  15.75    J Wall       ORL  4.21
+M Price      MIA  19.08    D Lillard    ANA  15.75    A Drummond   DEN  4.20
+B Pettit     MIN  19.04    S Nash       SYR  15.68    A Mourning   ANA  4.14
+C Mullin     ANA  18.65    W Bellamy    SDQ  15.46    S Haywood    ROC  4.08
+J Butler     DET  18.58    C Mullin     ANA  15.43    R Westbrook  SAS  4.07
+L Hudson     MIA  18.56    I Thomas     NJA  15.31    L Foust      KCO  3.98
+C Drexler    TOR  18.52    B Roy        SDQ  15.27    N Thurmond   PHO  3.97
+R Guerin     KEN  18.31    M Aguirre    ORL  15.26    B McAdoo     NJA  3.96
+J Lucas      WAS  18.21    J Butler     DET  14.98    C Drexler    TOR  3.94
+P Gasol      TOR  18.11    L Hudson     MIA  14.93    E Smith      ROC  3.94
+-----------------------------------------------------------------------------
+
+
+
+
+
+                                AWARD LEADERS
+------------------------------------------------------------------------------
+                                 SEASON MVP
+
+Player       Team   Votes  Player       Team   Votes  Player      Team   Votes
+------------------------------------------------------------------------------
+S Curry      VIR    115    B Pettit     MIN     34    O Schmidt    TOR    22
+R Westbrook  SAS     73    K Johnson    DAL     33    S Nash       SYR    22
+P Stojakovic MIN     57    B McDermott  DEN     32    A Green      CLE    21
+L James      SYR     56    W Chamberlai ORL     31    C Drexler    TOR    21
+K Bryant     SDQ     56    R Guerin     KEN     30    P Gasol      TOR    20
+M Jordan     UTA     56    C Billups    CLE     29    P Westphal   UTA    19
+E Brand      ORL     52    K Malone     TOR     29    W Frazier    UTA    19
+G Arenas     PIT     52    L Hudson     MIA     28    D Nowitzki   DAL    19
+J Harden     BOS     49    E Baylor     OKC     27    E Monroe     POR    18
+W Bellamy    SDQ     49    C Mullin     ANA     27    B Roy        SDQ    18
+C Paul       HOU     48    J Wall       ORL     26    A Davis      SAS    18
+G Yardley    KEN     46    S AbdurRahim DET     26    L Aldridge   BOS    17
+K Durant     HOU     45    C Lovellette MIN     25    M Stokes     SYR    17
+F Lever      SAS     45    J Butler     DET     24    P Arizin     MIN    17
+R Tomjanovic UTA     42    K Towns      OAK     24    I Thomas     NJA    17
+M Price      MIA     42    K Leonard    HOU     23    P Pierce     ORL    16
+H Luisetti   DAL     40    D Cousins    OKC     23    M Adams      TOR    16
+L Sprewell   PIT     36    M Aguirre    ORL     23    J Stockton   DET    16
+B Lanier     WAS     34    D Lillard    ANA     23    C Natt       SAS    16
+T Archibald  TRN     34    M Finley     CAR     23    B Spivey     BAL    16
+------------------------------------------------------------------------------
+
+
+
+
+
+----------------------------------------------------------------------------------------
+    ALL LEAGUE FIRST TEAM        ALL LEAGUE SECOND TEAM        ALL LEAGUE THIRD TEAM
+
+Pos Player        Team       Pos Player        Team        Pos Player        Team
+----------------------------------------------------------------------------------------
+C   E Brand       ORL        C   W Bellamy     SDQ         C   B Lanier      WAS
+F   P Stojakovic  MIN        F   M Jordan      UTA         F   G Yardley     KEN
+F   L James       SYR        F   K Bryant      SDQ         F   K Durant      HOU
+G   R Westbrook   SAS        G   J Harden      BOS         G   F Lever       SAS
+G   S Curry       VIR        G   G Arenas      PIT         G   C Paul        HOU
+----------------------------------------------------------------------------------------
+
+
+
+
+
+----------------------------------------------------
+       OFFENSIVE POTY           DEFENSIVE POTY
+
+Player       Team   Votes  Player       Team   Votes
+----------------------------------------------------
+S Curry      VIR     97    W Chamberlai ORL    136
+R Westbrook  SAS     66    B Cousy      BAL     67
+K Bryant     SDQ     64    B Jones      MIA     66
+P Stojakovic MIN     62    M Stokes     SYR     63
+L James      SYR     58    W Bellamy    SDQ     55
+G Arenas     PIT     54    D Jordan     PIT     55
+M Jordan     UTA     52    B Pettit     MIN     54
+J Harden     BOS     51    D Christie   BAL     51
+R Tomjanovic UTA     50    B Lanier     WAS     49
+E Brand      ORL     47    F Lever      SAS     49
+K Johnson    DAL     47    E Baylor     OKC     46
+K Durant     HOU     46    K Leonard    HOU     42
+G Yardley    KEN     44    M Camby      CLE     41
+C Paul       HOU     42    T Gugliotta  ANA     40
+T Archibald  TRN     42    C Lovellette MIN     40
+H Luisetti   DAL     40    T Cooper     BAL     39
+B McDermott  DEN     39    B McAdoo     NJA     39
+M Price      MIA     38    A Drummond   DEN     37
+L Sprewell   PIT     36    D Green      POR     37
+F Lever      SAS     35    A Davis      SAS     34
+M Aguirre    ORL     33    R Westbrook  SAS     32
+K Malone     TOR     33    H Luisetti   DAL     32
+S Nash       SYR     33    S AbdurRahim DET     31
+W Bellamy    SDQ     32    L Foust      KCO     31
+A Green      CLE     31    T McGrady    TRN     31
+C Mullin     ANA     31    N Johnston   NJA     31
+D Lillard    ANA     31    J Erving     DET     29
+C Billups    CLE     30    B Spivey     BAL     29
+B Lanier     WAS     28    J Wall       ORL     28
+J Butler     DET     27    K AbdulJabba KEN     28
+----------------------------------------------------
+
+
+
+
+
+----------------------------------------------------------------------------------------
+   ALL DEFENSIVE FIRST TEAM     ALL DEFENSIVE SECOND TEAM     ALL DEFENSIVE THIRD TEAM
+
+Pos Player        Team       Pos Player        Team        Pos Player        Team
+----------------------------------------------------------------------------------------
+C   W Chamberlai  ORL        C   W Bellamy     SDQ         C   D Jordan      PIT
+F   B Jones       MIA        F   B Pettit      MIN         F   K Leonard     HOU
+F   M Stokes      SYR        F   E Baylor      OKC         F   M Camby       CLE
+G   B Cousy       BAL        G   F Lever       SAS         G   H Luisetti    DAL
+G   D Christie    BAL        G   R Westbrook   SAS         G   T McGrady     TRN
+----------------------------------------------------------------------------------------

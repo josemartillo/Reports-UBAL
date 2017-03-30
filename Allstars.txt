@@ -1,0 +1,41 @@
+
+ NBA ALL STARS
+   Starters
+POS            Player             Team              VOTES     Stats
+Backcourt      Michael Jordan     Detroit Pistons   1123690   23 ppg, 5.8 reb, 3.1 ast, 1.8 stl, 0.5 blk, 1.8 to, (46.7/14.1/81.5)
+Backcourt      James Harden       Boston Celtics    1075580   22.1 ppg, 4.5 reb, 6.8 ast, 1.6 stl, 0.5 blk, 4.3 to, (45.9/30.7/87.3)
+Frontcourt     Wilt Chamberlain   Orlando Magic     1131250   9.5 ppg, 15.2 reb, 3.5 ast, 1.2 stl, 2.6 blk, 0.9 to, (71.3/0/50.2)
+Frontcourt     Karl Malone        Toronto Raptors   1033830   20 ppg, 7.5 reb, 3.7 ast, 0.8 stl, 0.5 blk, 2.7 to, (52.8/0/80.3)
+Frontcourt     LeBron James       Syracuse Nationals1017920   20.3 ppg, 7.1 reb, 4.6 ast, 1.1 stl, 0.5 blk, 3 to, (57/26.1/73.3)
+
+Bench
+Backcourt      Chris Paul         Houston Rockets   1058600   16.7 ppg, 3.6 reb, 8.3 ast, 2.6 stl, 0.1 blk, 2.6 to, (47.8/38.4/91.7)
+Backcourt      Chauncey Billups   Cleveland Cavalier925540    15.5 ppg, 2.8 reb, 7.8 ast, 1.6 stl, 0.3 blk, 2.3 to, (43.6/38.6/85.5)
+Frontcourt     Kevin Durant       Houston Rockets   1002930   21.1 ppg, 6.1 reb, 3.2 ast, 0.7 stl, 0.8 blk, 2.4 to, (53.9/36.8/92.9)
+Frontcourt     Elgin Baylor       Oklahoma City Thun956290    17.7 ppg, 8.6 reb, 2.9 ast, 1.6 stl, 1.3 blk, 2.2 to, (44.9/20.8/76.3)
+Frontcourt     Elton Brand        Orlando Magic     951720    18.3 ppg, 8.2 reb, 3 ast, 1 stl, 1.5 blk, 2.3 to, (57.5/0/79.1)
+Last 4         Pau Gasol          Toronto Raptors   941850    15 ppg, 9.3 reb, 2.5 ast, 0.4 stl, 1.8 blk, 1.4 to, (53.9/44.4/85.2)
+Last 4         Shareef AbdurRahim Detroit Pistons   941100    18.6 ppg, 7.2 reb, 3.4 ast, 1.3 stl, 1 blk, 2.8 to, (43.7/27.5/89.8)
+Last 4         Jerry Lucas        Washington Wizards928930    14.4 ppg, 12.9 reb, 2.6 ast, 0.9 stl, 0.7 blk, 1.8 to, (49.5/37.4/84)
+Last 4         Steve Nash         Syracuse Nationals914260    15.8 ppg, 3.7 reb, 9.3 ast, 0.5 stl, 0.2 blk, 3.6 to, (50.2/37.5/93.8)
+
+ ABA ALL STARS
+   Starters
+POS            Player             Team              VOTES     Stats
+Backcourt      Stephen Curry      Virginia Squires  1349400   23 ppg, 5.8 reb, 3.1 ast, 1.8 stl, 0.5 blk, 1.8 to, (46.7/14.1/81.5)
+Backcourt      Russell Westbrook  San Antonio Spurs 1249650   22.1 ppg, 4.5 reb, 6.8 ast, 1.6 stl, 0.5 blk, 4.3 to, (45.9/30.7/87.3)
+Frontcourt     Peja Stojakovic    Minnesota Muskies 1096070   9.5 ppg, 15.2 reb, 3.5 ast, 1.2 stl, 2.6 blk, 0.9 to, (71.3/0/50.2)
+Frontcourt     Kobe Bryant        San Diego Qs      1090790   20 ppg, 7.5 reb, 3.7 ast, 0.8 stl, 0.5 blk, 2.7 to, (52.8/0/80.3)
+Frontcourt     Walt Bellamy       San Diego Qs      1087890   20.3 ppg, 7.1 reb, 4.6 ast, 1.1 stl, 0.5 blk, 3 to, (57/26.1/73.3)
+
+Bench
+Backcourt      Gilbert Arenas     Pittsburgh Condors1145190   16.7 ppg, 3.6 reb, 8.3 ast, 2.6 stl, 0.1 blk, 2.6 to, (47.8/38.4/91.7)
+Backcourt      Fat Lever          San Antonio Spurs 1118660   15.5 ppg, 2.8 reb, 7.8 ast, 1.6 stl, 0.3 blk, 2.3 to, (43.6/38.6/85.5)
+Frontcourt     Rudy Tomjanovich   Utah Stars        1077200   21.1 ppg, 6.1 reb, 3.2 ast, 0.7 stl, 0.8 blk, 2.4 to, (53.9/36.8/92.9)
+Frontcourt     Hank Luisetti      Dallas Chaparrals 1065070   17.7 ppg, 8.6 reb, 2.9 ast, 1.6 stl, 1.3 blk, 2.2 to, (44.9/20.8/76.3)
+Frontcourt     George Yardley     Kentucky Colonels 1028070   18.3 ppg, 8.2 reb, 3 ast, 1 stl, 1.5 blk, 2.3 to, (57.5/0/79.1)
+Last 4         Kevin Johnson      Dallas Chaparrals 1082050   15 ppg, 9.3 reb, 2.5 ast, 0.4 stl, 1.8 blk, 1.4 to, (53.9/44.4/85.2)
+Last 4         Latrell Sprewell   Pittsburgh Condors1065380   18.6 ppg, 7.2 reb, 3.4 ast, 1.3 stl, 1 blk, 2.8 to, (43.7/27.5/89.8)
+Last 4         Lou Hudson         Miami Floridians  1020960   14.4 ppg, 12.9 reb, 2.6 ast, 0.9 stl, 0.7 blk, 1.8 to, (49.5/37.4/84)
+Last 4         Bob Pettit         Minnesota Muskies 1009310   15.8 ppg, 3.7 reb, 9.3 ast, 0.5 stl, 0.2 blk, 3.6 to, (50.2/37.5/93.8)
+

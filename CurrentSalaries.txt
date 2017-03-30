@@ -1,0 +1,527 @@
+      TEAM      Salary (NextYear   -    Carryove   -   Left for ResigLeft for Offseason FA
+  Oakland Oaks        34.1         -               -        45.9            45.9
+  San Diego Qs        56.9         -               -        23.1            23.1
+   Utah Stars        124.9         -               -       -44.9            -44.9
+ Anaheim Amigos       80.5         -               -        -0.5            -0.5
+San Antonio Spur     119.1         -               -       -39.1            -39.1
+Dallas Chaparral     103.7         -               -       -23.7            -23.7
+ Trenton Cagers       40.9         -               -        39.1            39.1
+Kentucky Colonel       64          -               -         16              16
+Miami Floridians      93.3         -               -       -13.3            -13.3
+Minnesota Muskie      82.7         -               -        -2.7            -2.7
+Baltimore Claws       11.7         -               -        68.3            68.3
+Carolina Cougars      46.5         -               -        33.5            33.5
+Pittsburgh Condo     101.2         -               -       -21.2            -21.2
+Virginia Squires      62.7         -               -        17.3            17.3
+New Jersey Ameri     103.7         -               -       -23.7            -23.7
+Houston Rockets       48.6         -               -        31.4            31.4
+  Phoenix Suns        23.7         -               -        56.3            56.3
+ Denver Nuggets       23.7         -               -        56.3            56.3
+Portland Trailbl      55.5         -               -        24.5            24.5
+Oklahoma City Th       72          -               -         8                8
+Cleveland Cavali      41.6         -               -        38.4            38.4
+ Orlando Magic         54          -               -         26              26
+Toronto Raptors      123.6         -               -       -43.6            -43.6
+Detroit Pistons       97.3         -               -       -17.3            -17.3
+Rochester Royals     108.3         -               -       -28.3            -28.3
+ KC-Omaha Kings        74          -               -         6                6
+ Boston Celtics       19.6         -               -        60.4            60.4
+Syracuse Nationa      59.6         -               -        20.4            20.4
+Washington Wizar      58.1         -               -        21.9            21.9
+ Brooklyn Nets        40.8         -               -        39.2            39.2
+  Free Agents          0           -               -         80              80
+  Free Agents          0           -               -         80              80
+  Free Agents          0           -               -         80              80
+  Free Agents          0           -               -         80              80
+  Free Agents          0           -               -         80              80
+       -               -           -       -       -         -                -
+Team            Player          Years   Amount         RULES
+Oakland Oaks    KarlAnthony Town       3    16.2       Resign Player Cap (in mil)
+Oakland Oaks    Al Horford             2    10.1       80
+Oakland Oaks    Fats Jenkins           2     1.4
+Oakland Oaks    Jabari Parker          2     3.8       Offseason FA Cap
+Oakland Oaks    Enes Kanter            1     2.6       80
+Oakland Oaks    Emmanuel Mudiay        2     1.5
+Oakland Oaks    Bill Sharman           1       1       Carryover Funds %
+Oakland Oaks    CJ McCollum            1     1.2       0%
+Oakland Oaks    Tom Boerwinkle         1     1.3
+Oakland Oaks    Jusuf Nurkic           1     1.2       Max Carryover Amount
+Oakland Oaks    Jose Calderon          1     0.6       0
+Oakland Oaks    Brad Miller            2     1.1
+Oakland Oaks    Darrell Armstron       1     0.9
+Oakland Oaks    Larry Nance            1     0.8
+San Diego Qs    Kobe Bryant            3    17.4
+San Diego Qs    Walt Bellamy           2      20
+San Diego Qs    Brandon Roy            1    14.3
+San Diego Qs    Marvin Barnes          1    14.5
+San Diego Qs    Tom Heinsohn           3     5.2
+San Diego Qs    Sleepy Floyd           1      14
+San Diego Qs    Cedric Maxwell         2    13.3
+San Diego Qs    Bob Dandridge          1     8.2
+San Diego Qs    Ray Williams           1     1.4
+San Diego Qs    Gerald Wallace         1     7.2
+San Diego Qs    Sam Lacey              2       1
+San Diego Qs    Zydrunas Ilgausk       1     1.1
+San Diego Qs    Maurice Cheeks         1     1.5
+San Diego Qs    Horace Grant           1     1.3
+Utah Stars      Michael Jordan         1    19.9
+Utah Stars      Rudy Tomjanovich       2    19.8
+Utah Stars      Blake Griffin          3    17.3
+Utah Stars      Shaquille O'Neal       3    17.1
+Utah Stars      Paul Westphal          3    14.8
+Utah Stars      Warren Jabali          3    10.5
+Utah Stars      Jamaal Wilkes          2     9.1
+Utah Stars      Walt Frazier           2    15.8
+Utah Stars      Greg Monroe            2    11.2
+Utah Stars      Louis Williams         1     1.4
+Utah Stars      Tim Duncan             1    11.3
+Utah Stars      Andrew Toney           1     1.3
+Utah Stars      Shawn Marion           2     9.3
+Utah Stars      Chuck Gilmur           1     1.6
+Anaheim Amigos  Damian Lillard         3    14.6
+Anaheim Amigos  Chris Mullin           1      18
+Anaheim Amigos  Antoine Walker         1    13.8
+Anaheim Amigos  Tom Gugliotta          2    14.1
+Anaheim Amigos  Alonzo Mourning        2    15.3
+Anaheim Amigos  Glenn Robinson         3    12.9
+Anaheim Amigos  Larry Johnson          3    15.2
+Anaheim Amigos  Gus Williams           1     3.7
+Anaheim Amigos  Sean Elliott           1     6.8
+Anaheim Amigos  Rolando Blackman       3     5.6
+Anaheim Amigos  Norm Nixon             1     2.7
+Anaheim Amigos  David Thompson         2     1.8
+Anaheim Amigos  Sam Perkins            2     0.5
+Anaheim Amigos  Dale Davis             2     0.5
+San Antonio SpurAnthony Davis          3      20
+San Antonio SpurRussell Westbroo       3      20
+San Antonio SpurArchie Clark           1    14.9
+San Antonio SpurBrook Lopez            2    14.7
+San Antonio SpurCalvin Natt            2    15.8
+San Antonio SpurReggie Theus           2     4.4
+San Antonio SpurWillis Reed            3    14.9
+San Antonio SpurFat Lever              1      18
+San Antonio SpurClark Kellogg          3    11.5
+San Antonio SpurGreg Ballard           2    10.7
+San Antonio SpurToni Kukoc             3     6.6
+San Antonio SpurZach Randolph          1     1.4
+San Antonio SpurCarlos Boozer          2     0.5
+San Antonio SpurJayson Williams        1     0.5
+Dallas ChaparralChuck Chuckovits       2      20
+Dallas ChaparralGeorge Mikan           2    19.9
+Dallas ChaparralDirk Nowitzki          1    14.7
+Dallas ChaparralHank Luisetti          2    16.1
+Dallas ChaparralKevin Johnson          2    16.6
+Dallas ChaparralKyrie Irving           3     6.4
+Dallas ChaparralBradley Beal           2     4.5
+Dallas ChaparralGheorghe Muresan       3     9.7
+Dallas ChaparralKevin Willis           2     0.5
+Dallas ChaparralDikembe Mutombo        2     5.8
+Dallas ChaparralAC Green               2     2.8
+Dallas ChaparralDale Ellis             1     0.6
+Dallas ChaparralRoy Tarpley            1     0.7
+Dallas ChaparralHassan Whiteside       2     1.4
+Trenton Cagers  Tiny Archibald         1    18.4
+Trenton Cagers  Andrew Wiggins         3     7.7
+Trenton Cagers  Nikola Vucevic         3      17
+Trenton Cagers  James Crawford         2     1.9
+Trenton Cagers  Gus Johnson            1    12.4
+Trenton Cagers  Dolph Schayes          2       6
+Trenton Cagers  Dan Roundfield         2       3
+Trenton Cagers  Shawn Kemp             1     1.3
+Trenton Cagers  Mookie Blaylock        1       1
+Trenton Cagers  Al Cervi               2     2.2
+Trenton Cagers  Sam Jones              2     2.6
+Trenton Cagers  Tracy McGrady          1     4.8
+Trenton Cagers  Manu Ginobili          1     1.4
+Trenton Cagers  Mason Plumlee          2     0.5
+Kentucky ColonelGeorge Yardley         2      17
+Kentucky ColonelRichie Guerin          1    17.4
+Kentucky ColonelJohnny Wooden          1    10.4
+Kentucky ColonelKareem AbdulJabb       2    16.6
+Kentucky ColonelDon Otten              1     8.2
+Kentucky ColonelDavid West             3    11.9
+Kentucky ColonelGary Trent             1     6.5
+Kentucky ColonelLenny Wilkens          2     6.2
+Kentucky ColonelRick Barry             2     6.8
+Kentucky ColonelLouie Dampier          2     0.7
+Kentucky ColonelTJ Ford                1     1.6
+Kentucky ColonelGail Goodrich          1     0.9
+Kentucky ColonelAndris Biedrins        2     2.5
+Kentucky ColonelSteve Mix              2     2.3
+Miami FloridiansYao Ming               2    19.5
+Miami FloridiansLou Hudson             2    16.5
+Miami FloridiansGeorge McGinnis        3    16.5
+Miami FloridiansEd Wachter             3     7.8
+Miami FloridiansJerry West             2    15.6
+Miami FloridiansMark Price             1    13.6
+Miami FloridiansKevin Love             1     2.2
+Miami FloridiansEmeka Okafor           2     3.9
+Miami FloridiansMichael Cage           1     1.2
+Miami FloridiansBobby Jones            2    11.9
+Miami FloridiansTerry Porter           2     0.7
+Miami FloridiansJames Donaldson        2     0.9
+Miami FloridiansMuggsy Bogues          1     0.7
+Miami FloridiansAndre Iguodala         1     1.2
+Minnesota MuskiePeja Stojakovic        3    18.8
+Minnesota MuskieBob Pettit             1      20
+Minnesota MuskiePaul Arizin            3    17.1
+Minnesota MuskieClyde Lovellette       1    19.1
+Minnesota MuskieWillie Naulls          2    13.8
+Minnesota MuskieKiki Vandeweghe        1     9.8
+Minnesota MuskieRandy Smith            3    10.4
+Minnesota MuskieWayne Embry            3     8.6
+Minnesota MuskieNick VanExel           2     2.8
+Minnesota MuskieRay Scott              2     4.2
+Minnesota MuskieDennis Johnson         1     1.2
+Minnesota MuskiePhil Ford              2       1
+Minnesota MuskieAlvan Adams            2     0.8
+Minnesota MuskieJason Kidd             3     5.2
+Baltimore Claws Antonello Riva         1     4.2
+Baltimore Claws Ron Harper             1     4.5
+Baltimore Claws Bill Spivey            1     9.4
+Baltimore Claws Tarzan Cooper          2     6.1
+Baltimore Claws Carl Landry            2     2.1
+Baltimore Claws Doug Christie          1     7.3
+Baltimore Claws Bob Cousy              1     7.8
+Baltimore Claws Kresimir Cosic         2     2.1
+Baltimore Claws Marques Haynes         2     1.4
+Baltimore Claws Curly Neal             1     1.2
+Baltimore Claws Shawn Bradley          1     1.2
+Baltimore Claws Bonzi Wells            1     1.8
+Baltimore Claws Lamond Murray          1     0.9
+Baltimore Claws Fred Brown             1     1.4
+Carolina CougarsMichael Finley         1    16.5
+Carolina CougarsMitch Richmond         1     4.6
+Carolina CougarsTerry Cummings         1    11.7
+Carolina CougarsMoses Malone           2     6.5
+Carolina CougarsDan Issel              2     7.1
+Carolina CougarsTobias Harris          3     8.8
+Carolina CougarsDetlef Schrempf        1    11.7
+Carolina CougarsCliff Robinson         3     8.9
+Carolina CougarsAlex English           3     8.4
+Carolina CougarsHersey Hawkins         2     5.9
+Carolina CougarsJames Worthy           1     6.1
+Carolina CougarsSergei Belov           1     1.2
+Carolina CougarsAndre Miller           1     0.9
+Carolina CougarsRod Strickland         2     0.9
+Pittsburgh CondoGilbert Arenas         3    18.8
+Pittsburgh CondoLatrell Sprewell       2    16.5
+Pittsburgh CondoCliff Hagan            2    16.1
+Pittsburgh CondoMike Mitchell          2      11
+Pittsburgh CondoMonta Ellis            2    10.8
+Pittsburgh CondoVin Baker              2      10
+Pittsburgh CondoMike Bibby             2     4.9
+Pittsburgh CondoRay Allen              1       5
+Pittsburgh CondoKevin Garnett          1    15.5
+Pittsburgh CondoMickey Johnson         2     3.8
+Pittsburgh CondoNene Hilario           3     8.3
+Pittsburgh CondoDeAndre Jordan         1    14.7
+Pittsburgh CondoJason Terry            1     1.1
+Pittsburgh CondoClifford Ray           2       1
+Virginia SquiresStephen Curry          2      20
+Virginia SquiresSidney Moncrief        3    11.7
+Virginia SquiresScott Fisher           2    12.4
+Virginia SquiresMarques Johnson        1      16
+Virginia SquiresPaul Millsap           1    10.1
+Virginia SquiresMarc Gasol             3     5.6
+Virginia SquiresArtis Gilmore          2    11.9
+Virginia SquiresKenny Sears            1     9.4
+Virginia SquiresRobert Parish          1       5
+Virginia SquiresAndy Phillip           1       7
+Virginia SquiresJeff Ruland            1     0.9
+Virginia SquiresRickey Green           1     6.7
+Virginia SquiresDutch Dehnert          1     3.7
+Virginia SquiresRich Kelley            2     1.1
+New Jersey AmeriJerry Stackhouse       1    11.2
+New Jersey AmeriBob McAdoo             1    18.7
+New Jersey AmeriTim Hardaway           3    16.8
+New Jersey AmeriIsaiah Thomas          3    12.7
+New Jersey AmeriAndrew Gaze            3    12.6
+New Jersey AmeriNeil Johnston          3    19.3
+New Jersey AmeriTruck Robinson         3     8.6
+New Jersey AmeriDwyane Wade            1     9.8
+New Jersey AmeriTerry Dischinger       2    12.4
+New Jersey AmeriMark Davis             2     7.5
+New Jersey AmeriHakeem Olajuwon        1    15.5
+New Jersey AmeriPooh Richardson        2     9.8
+New Jersey AmeriGeorge Gervin          1       2
+New Jersey AmeriJonas Valanciuna       2       4
+Team            Player          Years   Salary
+Houston Rockets Kevin Durant           1      20
+Houston Rockets Kawhi Leonard          1    18.8
+Houston Rockets Chris Paul             3    19.1
+Houston Rockets Giannis Antetoko       2    13.2
+Houston Rockets Derrick Favors         1    10.1
+Houston Rockets Alvin Robertson        2     6.2
+Houston Rockets Michael Kidd Gil       2       7
+Houston Rockets Michael Redd           1     3.7
+Houston Rockets Rajon Rondo            1    10.3
+Houston Rockets Ricky Rubio            2     0.8
+Houston Rockets Nikola Jokic           1     0.7
+Houston Rockets Rudy Gobert            1     1.1
+Houston Rockets Aaron Gordon           2     2.3
+Houston Rockets Boban Marjanovic       1     0.9
+Phoenix Suns    Eric Bledsoe           2     8.6
+Phoenix Suns    Jrue Holiday           1     4.3
+Phoenix Suns    Bruce Bolden           1      10
+Phoenix Suns    Kyle Lowry             2     3.4
+Phoenix Suns    Nikola Mirotic         2     1.1
+Phoenix Suns    Kenneth Faried         1     1.3
+Phoenix Suns    Bobby Jackson          2     0.6
+Phoenix Suns    Loy Vaught             2     6.3
+Phoenix Suns    Flynn Robinson         2       1
+Phoenix Suns    Nate Thurmond          2     1.2
+Phoenix Suns    Donyell Marshall       1     0.5
+Phoenix Suns    Chuck Share            2     0.6
+Phoenix Suns    Jermaine O'Neal        1     1.3
+Phoenix Suns    Kevin Martin           2     0.9
+Denver Nuggets  Bobby McDermott        1    16.6
+Denver Nuggets  Earl Manigault         2     8.8
+Denver Nuggets  Joe Barry Carrol       2     4.5
+Denver Nuggets  Glen Rice              2     5.5
+Denver Nuggets  Keith VanHorn          1     7.9
+Denver Nuggets  Andre Drummond         1    13.5
+Denver Nuggets  Rony Seikaly           1     1.2
+Denver Nuggets  Arvydas Sabonis        2     3.6
+Denver Nuggets  Jake Pelkington        1     1.3
+Denver Nuggets  Dave DeBusschere       1     3.2
+Denver Nuggets  Charles Oakley         1       1
+Denver Nuggets  Joe Johnson            1     1.6
+Denver Nuggets  Terrell Brandon        2     1.3
+Denver Nuggets  Ty Lawson              1       1
+Portland TrailblEarl Monroe            3    12.2
+Portland TrailblAmare Stoudemire       2    12.3
+Portland TrailblRichard Jefferso       3    14.5
+Portland TrailblDoug Moe               1     9.3
+Portland TrailblChristian Laettn       1     0.7
+Portland TrailblIsiah Thomas           2     1.3
+Portland TrailblBilly Cunningham       2       7
+Portland TrailblDanny Manning          1     1.1
+Portland TrailblDave DeJernett         2     5.1
+Portland TrailblKevin Porter           2       1
+Portland TrailblDraymond Green         2     1.3
+Portland TrailblHal Greer              1       2
+Portland TrailblJack Sikma             1     1.1
+Portland TrailblBill Laimbeer          2     0.8
+Oklahoma City ThDemarcus Cousins       3    19.2
+Oklahoma City ThAllen Iverson          2    12.7
+Oklahoma City ThJohn Drew              1    13.3
+Oklahoma City ThElgin Baylor           1    17.2
+Oklahoma City ThArnie Risen            2    13.8
+Oklahoma City ThGoran Dragic           2     3.7
+Oklahoma City ThGoose Tatum            1     1.2
+Oklahoma City ThXavier McDaniel        2     3.8
+Oklahoma City ThTyreke Evans           2     7.3
+Oklahoma City ThDwight Howard          2       9
+Oklahoma City ThRon Artest             1     2.7
+Oklahoma City ThSerge Ibaka            2     1.1
+Oklahoma City ThBrevin Knight          1     1.6
+Oklahoma City ThAndrew Bynum           2     1.4
+Cleveland CavaliCarmelo Anthony        3    13.8
+Cleveland CavaliAl Green               3    12.1
+Cleveland CavaliChauncey Billups       2     4.4
+Cleveland CavaliMaurice Lucas          1     1.5
+Cleveland CavaliDevin Booker           2     1.2
+Cleveland CavaliDeron Williams         2     0.7
+Cleveland CavaliNerlens Noel           2     0.6
+Cleveland CavaliMarcus Camby           2     6.4
+Cleveland CavaliBrent Barry            1     2.1
+Cleveland CavaliTyson Chandler         1     0.5
+Cleveland CavaliCorey Maggette         2     1.2
+Cleveland CavaliWillie CauleySte       1     0.6
+Cleveland CavaliBoris Diaw             2     1.2
+Cleveland CavaliJoakim Noah            1     0.7
+Orlando Magic   Mark Aguirre           1    14.5
+Orlando Magic   Cedric Ceballos        1    15.4
+Orlando Magic   Elton Brand            1    18.2
+Orlando Magic   Paul Pierce            2    11.3
+Orlando Magic   Jim Paxson             3      11
+Orlando Magic   John Wall              1    15.7
+Orlando Magic   Kenyon Martin          1    12.8
+Orlando Magic   Mike Conley            2     8.3
+Orlando Magic   Clarence Weather       2    12.1
+Orlando Magic   Connie Hawkins         2     9.9
+Orlando Magic   Marcin Gortat          1     4.6
+Orlando Magic   MR Richardson          1     0.9
+Orlando Magic   Wilt Chamberlain       1      19
+Orlando Magic   Vlade Divac            2     1.4
+Toronto Raptors Karl Malone            1    19.9
+Toronto Raptors Michael Adams          1    16.1
+Toronto Raptors Oscar Schmidt          1    14.1
+Toronto Raptors Jason Richardson       3      15
+Toronto Raptors Steve Smith            3    10.7
+Toronto Raptors Larry Jones            3     8.9
+Toronto Raptors Brad Daugherty         2    18.3
+Toronto Raptors Pau Gasol              3    17.9
+Toronto Raptors Clyde Drexler          3    14.9
+Toronto Raptors Orlando Woolridg       2     8.4
+Toronto Raptors Charles Barkley        3    15.6
+Toronto Raptors Gary Payton            2     7.4
+Toronto Raptors Mel Hutchins           3     6.5
+Toronto Raptors Joe Lapchick           1       1
+Detroit Pistons Shareef AbdurRah       2    16.9
+Detroit Pistons Dave Bing              3    12.4
+Detroit Pistons Jimmy Butler           3    15.9
+Detroit Pistons Damon Stoudamire       2      11
+Detroit Pistons Julius Erving          3    10.5
+Detroit Pistons WorldB Free            2     1.4
+Detroit Pistons Bob Brannum            1    10.2
+Detroit Pistons John Stockton          3    10.8
+Detroit Pistons Sam Cassell            2     1.2
+Detroit Pistons Tom Gola               2     5.7
+Detroit Pistons Bill Walton            2    11.5
+Detroit Pistons Zelmo Beaty            1     1.2
+Detroit Pistons Jordan Hill            1     1.5
+Detroit Pistons Kevin McHale           1     1.4
+Rochester RoyalsJack Twyman            1    17.1
+Rochester RoyalsJim Jackson            2    14.5
+Rochester RoyalsStephon Marbury        2    14.8
+Rochester RoyalsSpencer Haywood        2      16
+Rochester RoyalsPete Maravich          2    12.4
+Rochester RoyalsClifford Robinso       3     5.3
+Rochester RoyalsVince Carter           3    13.5
+Rochester RoyalsOtis Birdsong          1     7.6
+Rochester RoyalsSherman White          3     9.2
+Rochester RoyalsLarry Kenon            2     9.5
+Rochester RoyalsElmore Smith           1    13.4
+Rochester RoyalsLarry Costello         2     7.4
+Rochester RoyalsBilly Paultz           1     3.8
+Rochester RoyalsRasheed Wallace        2     5.7
+KC-Omaha Kings  Benny Borgmann         1    13.9
+KC-Omaha Kings  Mel Riebe              2     5.6
+KC-Omaha Kings  Chris Bosh             3    11.4
+KC-Omaha Kings  Purvis Short           1     8.5
+KC-Omaha Kings  Bob Kurland            3    15.7
+KC-Omaha Kings  Eddie Jones            3    11.3
+KC-Omaha Kings  Bernie Price           2       1
+KC-Omaha Kings  Larry Foust            2     7.6
+KC-Omaha Kings  Mel Daniels            2    10.1
+KC-Omaha Kings  Bailey Howell          2     9.8
+KC-Omaha Kings  Terry Tyler            1     3.1
+KC-Omaha Kings  Bill Bridges           1     0.8
+KC-Omaha Kings  Don Buse               1     0.6
+KC-Omaha Kings  Nate McMillan          2     1.5
+Boston Celtics  James Harden           1      19
+Boston Celtics  Gordon Hayward         1     8.6
+Boston Celtics  Brandon Knight         1     1.1
+Boston Celtics  Dave Cowens            1    16.2
+Boston Celtics  LaMarcus Aldridg       2    13.3
+Boston Celtics  Jahlil Okafor          1     1.7
+Boston Celtics  Victor Oladipo         1     1.8
+Boston Celtics  Ken Norman             2     4.4
+Boston Celtics  Kristaps Porzing       1     0.6
+Boston Celtics  Julius Randle          2     0.6
+Boston Celtics  Elfrid Payton          2     1.3
+Boston Celtics  Evan Turner            1     3.1
+Boston Celtics  Jared Sullinger        1     1.3
+Boston Celtics  Mark Jackson           1     0.9
+Syracuse NationaLeBron James           3      20
+Syracuse NationaDemar DeRozan          3    14.6
+Syracuse NationaReggie Miller          3      10
+Syracuse NationaVern Mikkelsen         1    13.4
+Syracuse NationaSteve Nash             1    14.4
+Syracuse NationaMaurice Stokes         1    16.1
+Syracuse NationaStan Patrick           1     5.8
+Syracuse NationaSwen Nater             2     3.8
+Syracuse NationaRed Kerr               1     1.1
+Syracuse NationaCalvin Murphy          2     1.1
+Syracuse NationaScottie Pippen         2       4
+Syracuse NationaPaul Pressey           2     6.1
+Syracuse NationaDavid Robinson         1     0.5
+Syracuse NationaDennis Rodman          1     1.1
+Washington WizarPaul George            3    12.6
+Washington WizarBob Lanier             2    19.7
+Washington WizarKlay Thompson          1    11.7
+Washington WizarKemba Walker           1    13.1
+Washington WizarPatrick Ewing          1      11
+Washington WizarJerry Lucas            1    17.3
+Washington WizarLeroy Loggins          3     7.8
+Washington WizarJeff Teague            3     9.1
+Washington WizarGeorge Glamack         2     6.4
+Washington WizarDerek Harper           1    10.6
+Washington WizarReggie Jackson         1     1.3
+Washington WizarAndrei Kirilenko       1     8.5
+Washington WizarWillie Wise            2     2.5
+Washington WizarInman Jackson          1       1
+Brooklyn Nets   Leroy Edwards          2    18.4
+Brooklyn Nets   Ed Macauley            3    12.5
+Brooklyn Nets   Nat Holman             2     1.1
+Brooklyn Nets   Zach LaVine            2     1.4
+Brooklyn Nets   Horse Haggerty         1     0.9
+Brooklyn Nets   D'Angelo Russell       2     1.3
+Brooklyn Nets   Ruben Patterson        2     2.8
+Brooklyn Nets   Derrick Coleman        2     0.5
+Brooklyn Nets   Myles Turner           2     0.5
+Brooklyn Nets   Stanley Johnson        1     0.8
+Brooklyn Nets   Justise Winslow        1     0.8
+Brooklyn Nets   Mario Hezonja          1     0.9
+Brooklyn Nets   Clint Capela           2     1.1
+Brooklyn Nets   Dante Exum             2     1.2
+Team            Player          Years   Salary
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2
+Free Agents     Open                   1     1.2

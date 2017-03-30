@@ -1,0 +1,302 @@
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 1.05
+San Diego Qs       PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Ray Williams        9   8   0   0   0     2   6   0   8   0     52   44  1.18
+Gerald Wallace      0   0  12   7   0     4   8   0   7   0     53   56  0.95
+Zydrunas Ilgauska   0   0   0   0   7     2   3   0   2   0     27   25  1.08
+Sleepy Floyd       35   0   0   0   0    10   6  12   7   0     90   89  1.01
+Kobe Bryant         0  40   0   0   0    12   7  12   9   0    114  113  1.01
+Maurice Cheeks      4   0   0   0   0     0   4   0   0   0     12   10  1.20
+Walt Bellamy        0   0   0   0  41    10   9  12   9   0    106  101  1.05
+Cedric Maxwell      0   0  36   0   0    10   6  12   8   0     96   95  1.01
+Bob Dandridge       0   0   0  10   0     2   4   0   4   0     35   31  1.13
+Tom Heinsohn        0   0   0  31   0     8   6  12   5   0     85   76  1.12
+
+                       Positions             Quarters           Pts Scrd 0.96
+San Antonio Spurs  PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Russell Westbrook  33   0   0   0   0     9   6  12   6   0     87   90  0.97
+Willis Reed         0   0   0   0  31     4   9  10   9   0     81   80  1.01
+Toni Kukoc          0   0  19   3   0     3   6   5   7   0     62   62  1.00
+Clark Kellogg       0   0   5  11   0     9   2   0   5   0     50   53  0.94
+Greg Ballard        0   0   0   4   0     0   4   0   0   0     10   12  0.83
+Fat Lever           6  31   0   0   0    10   6  12   8   0     95   95  1.00
+Calvin Natt         0   0  24   6   0     9   6  12   4   0     79   83  0.95
+Anthony Davis       0   0   0   0  14     8   1   2   3   0     41   44  0.93
+Reggie Theus        0  10   0   0   0     2   4   0   4   0     31   36  0.86
+Brook Lopez         0   0   0   0   3     0   3   0   0   0      8   12  0.67
+Archie Clark       10   7   0   0   0     3   8   0   6   0     43   47  0.91
+Jayson Williams     0   0   0  23   0     3   6   6   8   0     53   56  0.95
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 0.89
+Syracuse Nationals PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Dennis Rodman       0   0   0   1   0     0   0   0   1   0      2    5  0.40
+Maurice Stokes      0   0   0  38   1    12   8  12   7   0    104  111  0.94
+Steve Nash         31   0   0   0   0     9   6   9   7   0     69   90  0.77
+Paul Pressey        0  12  11   0   0     3   9   3   8   0     61   55  1.11
+Vern Mikkelsen      0   0   0   4  12     1   6   2   6   0     37   31  1.19
+LeBron James        0   0  28   5   0     9   6   9   8   0     74   93  0.80
+Stan Patrick        0   0   9   0   0     1   6   1   1   0     25   17  1.47
+Swen Nater          0   0   0   0  35    11   7  10   8   0     81  106  0.76
+Calvin Murphy      17   0   0   0   0     3   6   3   5   0     49   43  1.14
+Demar DeRozan       0  36   0   0   0    11   6  11   8   0     88  114  0.77
+
+                       Positions             Quarters           Pts Scrd 1.13
+Toronto Raptors    PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Oscar Schmidt       0  16   7   0   0     3   9   3   7   0     67   61  1.10
+Orlando Woolridge   0   0   1   1   0     0   0   0   1   0      0    4  0.00
+Clyde Drexler       0  29   5   0   0    11   7  10   6   0     99   80  1.24
+Joe Lapchick        0   0   0  13   1     3   4   3   4   0     41   38  1.08
+Larry Jones        14   1   0   0   0     3   6   3   4   0     43   41  1.05
+Gary Payton         1   0   0   0   0     0   0   0   1   0      0    4  0.00
+Brad Daugherty      0   0   0   0  11     1   6   2   2   0     31   32  0.97
+Jason Richardson    0   2   8   0   0     1   4   2   3   0     21   24  0.88
+Michael Adams      32   0   0   0   0     9   6   9   8   0     90   77  1.17
+Karl Malone         0   0   0   0  35    11   6  10   9   0    102   80  1.28
+Pau Gasol           0   0   0  31   0     9   6   9   8   0     89   77  1.16
+Charles Barkley     0   0  28   3   0     9   6   9   7   0     82   72  1.14
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 1.02
+Cleveland CavaliersPG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Chauncey Billups   34   0   0   0   0    11   4   9   9   0     79   62  1.27
+Tyson Chandler      0   0   0   0  14     3   5   4   1   0     25   36  0.69
+Brent Barry         0   1   0   0   0     0   0   0   1   0      0    2  0.00
+Devin Booker        0   0  10   0   0     1   5   3   2   0     18   26  0.69
+Maurice Lucas       0   0   0  17   0     3   5   5   3   0     30   46  0.65
+Deron Williams     14   0   0   0   0     1   8   3   3   0     24   39  0.62
+Al Green            0  37   0   0   0    11   7   9   9   0     83   75  1.11
+Carmelo Anthony     0   0  36   0   0    11   5   9  10   0     83   68  1.22
+Marcus Camby        0   0   0   6  27     9   7   8   9   0     77   61  1.26
+Corey Maggette      0  10   2   0   0     1   6   3   3   0     22   31  0.71
+Nerlens Noel        0   0   0  26   7     9   7   7  10   0     74   59  1.25
+
+                       Positions             Quarters           Pts Scrd 0.98
+Miami Floridians   PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Ed Wachter          0   0   0   1   8     0   0   0   9   0     17   16  1.06
+James Donaldson     0   0   0   0  11     1   5   3   3   0     24   20  1.20
+Lou Hudson          0  42   0   0   0    12   8  12   9   0     82   87  0.94
+Bobby Jones         0   0  34   0   0     9   7   9   9   0     61   82  0.74
+Terry Porter       29   0   0   0   0     9   4   8   8   0     46   76  0.61
+Emeka Okafor        0   0   0  28   8    11   7  11   8   0     74   79  0.94
+George McGinnis     0   6  14   0   0     3   9   3   5   0     59   37  1.59
+Muggsy Bogues      19   0   0   0   0     3   8   4   4   0     55   27  2.04
+Yao Ming            0   0   0   0  21    11   7   1   2   0     49   45  1.09
+Kevin Love          0   0   0  19   0     1   5  10   3   0     38   46  0.83
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 1.06
+Houston Rockets    PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Michael Kidd Gilc   0   0   9   0   0     3   3   0   4   0     20   30  0.67
+Chris Paul         16   0   0   0   0     9   4   3   0   0     45   33  1.36
+Nikola Jokic        0   0   0   0  24     6   5   9   4   0     61   61  1.00
+Giannis Antetokou   0   0  14  10   3     9   6   3   8   0     67   56  1.20
+Alvin Robertson     6  15   0   0   0     4   3   6   8   0     59   57  1.04
+Ricky Rubio        12   0   0   0   0     0   5   3   4   0     27   32  0.84
+Rudy Gobert         0   0   0   0  22     6   4   3   8   0     59   48  1.23
+Aaron Gordon        0   0   0  18   0     3   3   9   4   0     47   59  0.80
+Rajon Rondo        14  14   0   0   0     3   8   9   8   0     73   67  1.09
+Kawhi Leonard       0   0  24   8   0     9   6   9   8   0     89   73  1.22
+Michael Redd        0  20   0   0   0     8   5   3   4   0     46   47  0.98
+Kevin Durant        0   0   0  12   0     0   9   3   0   0     32   27  1.19
+
+                       Positions             Quarters           Pts Scrd 0.94
+Brooklyn Nets      PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Justise Winslow     0   0  11  11   0     5   4   6   6   0     61   59  1.03
+Mario Hezonja       0   6   3   0   0     0   1   3   4   0     27   18  1.50
+Ed Macauley         0   0   0   0  23     5   7   4   8   0     57   64  0.89
+Horse Haggerty      0   0   0   0   0     0   0   0   0   0      2    0  XXXX
+D'Angelo Russell   10  18   0   0   0     8   8   6   6   0     60   77  0.78
+Myles Turner        0   0   0  27   0     7   8   7   5   0     63   70  0.90
+Zach LaVine         9  15   0   0   0     6   6   6   7   0     67   64  1.05
+Nat Holman         29   0   0   0   0     7   5   8   8   0     68   72  0.94
+Stanley Johnson     0   3  14   0   0     6   6   2   3   0     46   50  0.92
+Ruben Patterson     0   6  19   0   0     6   6   7   6   0     60   65  0.92
+Leroy Edwards       0   0   0  10  25     9   9  11   6   0     79   86  0.92
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 1.03
+Oklahoma City ThundPG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Andrew Bynum        0   0   0   0   7     1   1   3   1   0     20   27  0.74
+Goran Dragic        0   1   0   0   0     1   0   0   0   0      0    4  0.00
+Dwight Howard       0   0   0   0  34    10   5   9  10   0     68   59  1.15
+Allen Iverson      42   0   0   0   0    12   9   9  12   0     91   90  1.01
+Demarcus Cousins    0   0   0  31   7    11   8   9  11   0     82   75  1.09
+John Drew           0  14   8   0   0     2   9   7   3   0     60   61  0.98
+Xavier McDaniel     0   0   5  11   0     2   9   3   1   0     47   49  0.96
+Elgin Baylor        0   0  32   6   0    11   6   9  12   0     79   75  1.05
+Brevin Knight       6   0   0   0   0     0   3   3   0   0     19   17  1.12
+Ron Artest          0   0   2   0   0     0   1   1   0   0      7   10  0.70
+Tyreke Evans        0  34   1   0   0    10   8   7   9   0     77   68  1.13
+
+                       Positions             Quarters           Pts Scrd 0.97
+Trenton Cagers     PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Gus Johnson         0   0  25   5   0    11   6   8   5   0     62   63  0.98
+Dan Roundfield      0   0   0  13  10     7   6   3   8   0     63   55  1.15
+Sam Jones           0   6  18   0   0     3   9   4   8   0     60   65  0.92
+Manu Ginobili       1   0   0   0   0     0   1   0   0   0      1    3  0.33
+James Crawford      0   0   0  13   0     1   8   3   2   0     39   43  0.91
+Dolph Schayes       0   0   0  17   0     3   0   9   4   0     27   25  1.08
+Andrew Wiggins      0   2   3   0   0     0   3   2   0   0     14   22  0.64
+Tracy McGrady       0  15   1   0   0     4   4   4   4   0     31   30  1.03
+Al Cervi            6  26   0   0   0     8   8   8   8   0     80   77  1.04
+Tiny Archibald     41   0   0   0   0    12   7  10  12   0     85   85  1.00
+Nikola Vucevic      0   0   0   0  37    11   8   9  10   0     73   82  0.89
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 0.96
+Portland TrailblazePG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Draymond Green      0   0   0  35   0     9   8   8  10   0     69   81  0.85
+Doug Moe            2  19   0   0   0     3   8   4   6   0     49   56  0.88
+Dave DeJernett      0   0   0   1   2     0   2   1   0   0     12   12  1.00
+Amare Stoudemire    0   0   0   0  41    12   7  10  11   0     85   82  1.04
+Christian Laettne   0   0   0   3   6     0   6   2   1   0     26   33  0.79
+Earl Monroe         9  26   0   0   0    12   6   8   9   0     75   71  1.06
+Billy Cunningham    0   0   8   9   0     3   6   4   5   0     45   45  1.00
+Isiah Thomas       37   0   0   0   0     9   9  10   9   0     84   93  0.90
+Hal Greer           0   3   0   0   0     0   1   2   0   0     10    6  1.67
+Richard Jefferson   0   0  40   0   0    12   7  11   9   0     90   86  1.05
+
+                       Positions             Quarters           Pts Scrd 1.04
+Carolina Cougars   PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Mitch Richmond     19   6   0   0   0     4  10   5   6   0     65   67  0.97
+Alex English        0   0   3   0   0     0   1   2   1   0     14   11  1.27
+Cliff Robinson      0   0  35   1   0     9   8   9  10   0     87   81  1.07
+Sergei Belov        1  12   0   0   0     2   5   3   3   0     28   39  0.72
+Dan Issel           0   0   0   0  12     4   3   3   2   0     26   32  0.81
+Terry Cummings      0   0   0  38   0    10   8   9  11   0     87   77  1.13
+Detlef Schrempf     0   0   3   9   0     3   4   3   3   0     30   34  0.88
+Michael Finley      0  30   6   0   0    12   7  10   7   0     74   78  0.95
+Andre Miller       28   0   0   0   0     8   4   7   8   0     67   49  1.37
+Moses Malone        0   0   0   0  36     8   9   9  10   0     87   77  1.13
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 0.97
+Pittsburgh Condors PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Mike Bibby          6   0   0   0   0     0   4   0   3   0     10   12  0.83
+Monta Ellis         0   8   0   0   0     0   5   0   3   0     21   21  1.00
+Nene Hilario        0   0   0   5  13     3   7   4   4   0     61   47  1.30
+Mickey Johnson      0   0  13   0   0     3   6   3   2   0     48   35  1.37
+Gilbert Arenas     42   0   0   0   0    12   8  12   9   0    103  104  0.99
+Vin Baker           0   0   0  10   0     2   4   3   1   0     34   31  1.10
+Cliff Hagan         0   0  35   1   0    10   6   9  10   0     69   85  0.81
+DeAndre Jordan      0   0   0   0  35     9   7   9  10   0     71   77  0.92
+Latrell Sprewell    0  40   0   0   0    12   7  12   9   0     92   95  0.97
+Kevin Garnett       0   0   0  32   0     9   5   8   9   0     56   73  0.77
+
+                       Positions             Quarters           Pts Scrd 1.03
+Virginia Squires   PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Marques Johnson     0   0  34   0   0     9   7   9   9   0     75   63  1.19
+Sidney Moncrief     0  39   0   0   0    12   7  12   8   0     96   92  1.04
+Jeff Ruland         0   0   0  15   0     3   6   4   2   0     40   49  0.82
+Paul Millsap        0   0   0  33   0     9   6   8  10   0     76   64  1.19
+Scott Fisher        0   0  14   0   0     3   5   3   3   0     41   50  0.82
+Andy Phillip        0   9   0   0   0     0   5   0   4   0     20   21  0.95
+Rickey Green       13   0   0   0   0     3   5   3   2   0     39   42  0.93
+Artis Gilmore       0   0   0   0  16     4   5   4   3   0     44   49  0.90
+Robert Parish       0   0   0   0  32     8   7   8   9   0     72   64  1.13
+Stephen Curry      35   0   0   0   0     9   7   9  10   0     77   71  1.08
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 0.96
+Utah Stars         PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Paul Westphal       9  23   0   0   0     8   8   6  10   0     86   79  1.09
+Rudy Tomjanovich    0   0   1  40   0    11   9  12   9   0    102  107  0.95
+Louis Williams      0   9   0   0   0     0   4   0   5   0     19   25  0.76
+Tim Duncan          0   0   0   0  31     9   6  12   5   0     77   70  1.10
+Warren Jabali       0   0   4   0   0     0   4   0   0   0     14   12  1.17
+Bill Walton         0   0   0   0  17     3   6   0   7   0     41   53  0.77
+Shawn Marion        0   0  20   8   0     5   8   6   9   0     56   75  0.75
+Walt Frazier       39   0   0   0   0    12   8  12   7   0     99   98  1.01
+Jimmy Butler        0  16  22   0   0    12   8  12   7   0     96   96  1.00
+
+                       Positions             Quarters           Pts Scrd 1.04
+Dallas Chaparrals  PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Kevin Willis        0   0   0   4   1     0   0   4   1   0     16   15  1.07
+Dikembe Mutombo     0   0   0   0  27     3   6   8  10   0     75   71  1.06
+Dale Ellis          0   0   9   0   0     1   6   0   3   0     32   28  1.14
+Gheorghe Muresan    0   0   0   0  20     9   6   4   1   0     47   43  1.09
+AC Green            0   0  32   0   0     9   6   8   9   0     68   73  0.93
+Bradley Beal        0  15   6   0   0     3   6   4   8   0     67   60  1.12
+Kevin Johnson      37   0   0   0   0     9   8  12   8   0     92   90  1.02
+Dirk Nowitzki       0   0   0  27   0     7   9   2   9   0     63   64  0.98
+Roy Tarpley         0   0   0  17   0     5   3   7   3   0     45   43  1.05
+Hank Luisetti       0  33   1   0   0    11   6  12   4   0     79   75  1.05
+Kyrie Irving       11   0   0   0   0     3   4   0   4   0     31   28  1.11
+
+=============================================================================
+
+                             90
+
+                       Positions             Quarters           Pts Scrd 0.99
+Denver Nuggets     PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Keith VanHorn       0   0  15   5   0     9   7   1   4   0     37   40  0.93
+Joe Johnson         0   1   1   0   0     0   1   1   1   0     11    4  2.75
+Earl Manigault      7  25   0   0   0     8   8   7   9   0     69   69  1.00
+Glen Rice           0   4  17   0   0     3   6   7   5   0     58   56  1.04
+Andre Drummond      0   0   0   0  34     9   7  10   9   0     63   70  0.90
+Charles Oakley      0   0   0  24   0     3   5   7   9   0     45   54  0.83
+Dave DeBusschere    0  17  14   0   0     9   6  10   7   0     57   62  0.92
+Terrell Brandon     1   0   0   0   0     0   0   0   0   0      3    4  0.75
+Joe Barry Carroll   0   0   0   0  14     3   5   2   3   0     41   35  1.17
+Bobby McDermott    40   0   0   0   0    12   8  11  10   0     85   87  0.98
+Jake Pelkington     0   0   0  20   0     5   7   5   3   0     51   44  1.16
+
+                       Positions             Quarters           Pts Scrd 1.01
+Baltimore Claws    PG  SG  SF  PF   C     1   2   3   4  OT     OFF  DEF  TOT  
+-----------------------------------------------------------------------------
+Tarzan Cooper       0   0   0  38   0    12   7  10  10   0     78   82  0.95
+Curly Neal         12   0   0   0   0     3   5   4   0   0     36   39  0.92
+Kresimir Cosic      0   0   0   9  10     3   9   4   3   0     56   51  1.10
+Marques Haynes     29   0   0   0   0     9   7   8   5   0     58   53  1.09
+Ron Harper          0   0  10   0   0     3   2   2   2   0     29   33  0.88
+Shawn Bradley       0   0   0   0   4     0   1   2   1   0      9   12  0.75
+Bob Cousy           7  26   0   0   0     9   6   8  10   0     58   59  0.98
+Doug Christie       0   0  36   0   0     9   8  10  10   0     73   65  1.12
+Carl Landry         0   0   0   1   0     0   0   1   0   0      4    2  2.00
+Antonello Riva      0  22   0   0   0     3   6   4   8   0     58   57  1.02
+Bonzi Wells         0   0   2   0   0     0   2   0   0   0      3    6  0.50
+Bill Spivey         0   0   0   0  34     9   7   8  10   0     63   61  1.03
+
+=============================================================================
+

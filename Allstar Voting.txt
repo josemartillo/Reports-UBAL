@@ -1,0 +1,68 @@
+
+ABA ALL STAR VOTING
+Projected Starters
+POS     Player             Team                  VOTES    Stats
+PG      Chris Paul         Houston Rockets       1068186  16.7 ppg, 3.6 reb, 8.3 ast, 2.6 stl, 0.1 blk, 2.6 to, (47.8/38.4/91.7)
+SG      James Harden       Boston Celtics        1082686  22.1 ppg, 4.5 reb, 6.8 ast, 1.6 stl, 0.5 blk, 4.3 to, (45.9/30.7/87.3)
+SF      LeBron James       Syracuse Nationals    1052431  20.3 ppg, 7.1 reb, 4.6 ast, 1.1 stl, 0.5 blk, 3 to, (57/26.1/73.3)
+PF      Karl Malone        Toronto Raptors       1022623  20 ppg, 7.5 reb, 3.7 ast, 0.8 stl, 0.5 blk, 2.7 to, (52.8/0/80.3)
+C       Elton Brand        Orlando Magic         1107999  18.3 ppg, 8.2 reb, 3 ast, 1 stl, 1.5 blk, 2.3 to, (57.5/0/79.1)
+
+Projected Bench
+PG      Chauncey Billups   Cleveland Cavaliers   821296   15.5 ppg, 2.8 reb, 7.8 ast, 1.6 stl, 0.3 blk, 2.3 to, (43.6/38.6/85.5)
+SG      Jimmy Butler       Detroit Pistons       956810   19 ppg, 4.4 reb, 3.2 ast, 2.1 stl, 0.5 blk, 1.5 to, (43.5/31.9/85.1)
+SF      Kawhi Leonard      Houston Rockets       799506   17.6 ppg, 6 reb, 1.9 ast, 2.2 stl, 0.8 blk, 1.3 to, (47.7/45.1/87.8)
+PF      Kevin Durant       Houston Rockets       960536   21.1 ppg, 6.1 reb, 3.2 ast, 0.7 stl, 0.8 blk, 2.4 to, (53.9/36.8/92.9)
+C       Wilt Chamberlain   Orlando Magic         896748   9.5 ppg, 15.2 reb, 3.5 ast, 1.2 stl, 2.6 blk, 0.9 to, (71.3/0/50.2)
+PG      Michael Adams      Toronto Raptors       810927   16.3 ppg, 3.1 reb, 8.8 ast, 2.3 stl, 0.1 blk, 3.4 to, (35.6/30.5/86.6)
+PF/C    Pau Gasol          Toronto Raptors       791568   15 ppg, 9.3 reb, 2.5 ast, 0.4 stl, 1.8 blk, 1.4 to, (53.9/44.4/85.2)
+PG/SG   Bobby McDermott    Denver Nuggets        791567   19.3 ppg, 4 reb, 6 ast, 1.4 stl, 0.4 blk, 3.1 to, (44.8/34.7/75.1)
+SF/PF   Elgin Baylor       Oklahoma City Thunder 784803   17.7 ppg, 8.6 reb, 2.9 ast, 1.6 stl, 1.3 blk, 2.2 to, (44.9/20.8/76.3)
+
+Voting Race
+SG/SF   Clyde Drexler      Toronto Raptors       784236   14.2 ppg, 6.3 reb, 6.4 ast, 2.1 stl, 0.6 blk, 2.2 to, (45.7/32.9/77.4)
+SF/PF   Shareef AbdurRahim Detroit Pistons       779173   18.6 ppg, 7.2 reb, 3.4 ast, 1.3 stl, 1 blk, 2.8 to, (43.7/27.5/89.8)
+SF      Jack Twyman        Rochester Royals      771316   19.2 ppg, 4.8 reb, 2.7 ast, 1.2 stl, 0.9 blk, 2.3 to, (47.7/41.5/79.4)
+SG/SF   Mark Aguirre       Orlando Magic         770181   21.7 ppg, 5.1 reb, 2.5 ast, 0.8 stl, 0.4 blk, 2.5 to, (48.4/39.9/69.5)
+PF/C    Demarcus Cousins   Oklahoma City Thunder 761271   18.2 ppg, 8.1 reb, 2.6 ast, 1.2 stl, 1.1 blk, 2.6 to, (46.8/41.9/72.5)
+PF/C    Jerry Lucas        Washington Wizards    749120   14.4 ppg, 12.9 reb, 2.6 ast, 0.9 stl, 0.7 blk, 1.8 to, (49.5/37.4/84)
+PG      Steve Nash         Syracuse Nationals    737051   15.8 ppg, 3.7 reb, 9.3 ast, 0.5 stl, 0.2 blk, 3.6 to, (50.2/37.5/93.8)
+SG/SF   Oscar Schmidt      Toronto Raptors       722916   18.7 ppg, 4.2 reb, 1.4 ast, 0.9 stl, 0.3 blk, 1.5 to, (50.5/39.3/78)
+SF/PF   Paul Pierce        Orlando Magic         720769   18.4 ppg, 5.2 reb, 4.8 ast, 1.2 stl, 0.4 blk, 2.5 to, (43.4/31.7/86.6)
+PG      John Stockton      Detroit Pistons       718582   10.5 ppg, 2.3 reb, 8.9 ast, 1.9 stl, 0.2 blk, 2.1 to, (52.5/47/80.7)
+SG      Al Green           Cleveland Cavaliers   685533   17.3 ppg, 2.5 reb, 4.4 ast, 0.7 stl, 0.1 blk, 2.4 to, (51.8/25.2/82)
+
+
+NBA ALL STAR VOTING
+Projected Starters
+POS     Player             Team                  VOTES    Stats
+PG      Stephen Curry      Virginia Squires      1780975  26.2 ppg, 4.3 reb, 6.2 ast, 2.2 stl, 0.2 blk, 3 to, (49.5/42.3/90.4)
+SG      Tiny Archibald     Trenton Cagers        1448267  20.6 ppg, 2 reb, 8.9 ast, 1.6 stl, 0.1 blk, 3 to, (49.8/36/87)
+SF      Kobe Bryant        San Diego Qs          1247426  24.1 ppg, 5.5 reb, 4.7 ast, 2 stl, 0.2 blk, 3.3 to, (48.2/30.9/83.8)
+PF      Rudy Tomjanovich   Utah Stars            1117380  19.7 ppg, 6.6 reb, 2.5 ast, 1 stl, 0.8 blk, 1.2 to, (53.8/36.9/82.1)
+C       Walt Bellamy       San Diego Qs          939419   18.4 ppg, 10.7 reb, 1.8 ast, 0.9 stl, 2 blk, 2.1 to, (56/25/70.6)
+
+Projected Bench
+PG      Russell Westbrook  San Antonio Spurs     1522706  20.5 ppg, 5.9 reb, 9.9 ast, 2.6 stl, 0.2 blk, 4.8 to, (50.7/36.2/81.4)
+SG      Gilbert Arenas     Pittsburgh Condors    1296229  23.1 ppg, 3.1 reb, 6.5 ast, 2.2 stl, 0.3 blk, 3.5 to, (45.3/38.5/81)
+SF      Peja Stojakovic    Minnesota Muskies     1124144  23 ppg, 4.9 reb, 2.3 ast, 1.1 stl, 0.2 blk, 1.6 to, (49.9/41.9/91.1)
+PF      Anthony Davis      San Antonio Spurs     778024   18.8 ppg, 7.8 reb, 1.9 ast, 1.3 stl, 1.6 blk, 1.6 to, (47.2/39.5/71.1)
+C       Bob Pettit         Minnesota Muskies     855056   17.8 ppg, 9.7 reb, 1.7 ast, 1.1 stl, 1.9 blk, 2 to, (50.5/23.9/74.5)
+SG      Latrell Sprewell   Pittsburgh Condors    1125480  20.5 ppg, 4.1 reb, 6.1 ast, 1.6 stl, 0.7 blk, 2.7 to, (44.7/32.9/86.8)
+PG      Kevin Johnson      Dallas Chaparrals     1114706  17.4 ppg, 3.5 reb, 11.5 ast, 1.3 stl, 0.2 blk, 3.7 to, (46.4/14.7/78.6)
+SG/SF   Michael Jordan     Utah Stars            1081374  23 ppg, 5.8 reb, 3.1 ast, 1.8 stl, 0.5 blk, 1.8 to, (46.7/14.1/81.5)
+PG/SG   Fat Lever          San Antonio Spurs     1066834  15.2 ppg, 6.4 reb, 8 ast, 2.8 stl, 0.4 blk, 2 to, (48/31.7/77)
+
+Voting Race
+SG/SF   Hank Luisetti      Dallas Chaparrals     1026496  19.6 ppg, 3.8 reb, 6 ast, 2.3 stl, 0.5 blk, 3.5 to, (50.2/35.2/80.2)
+SG/SF   George Yardley     Kentucky Colonels     979313   20.8 ppg, 7.7 reb, 1.7 ast, 0.9 stl, 1.3 blk, 1.7 to, (50.3/34.2/80.5)
+PG/SG   Richie Guerin      Kentucky Colonels     973035   19.5 ppg, 3.6 reb, 6.3 ast, 1.6 stl, 0.7 blk, 2.8 to, (46/32.2/81.5)
+PG      Mark Price         Miami Floridians      953068   15.1 ppg, 3 reb, 9.5 ast, 1.8 stl, 0 blk, 2.7 to, (43.9/41.8/86.2)
+SG/SF   Lou Hudson         Miami Floridians      943145   21.5 ppg, 3.7 reb, 3.2 ast, 2.4 stl, 0.4 blk, 2.3 to, (46.3/31/75.3)
+SG/SF   Chris Mullin       Anaheim Amigos        893127   17.9 ppg, 5.3 reb, 3.2 ast, 1.3 stl, 0.7 blk, 2.1 to, (51.2/37.2/91.8)
+PG/SG   Sidney Moncrief    Virginia Squires      855057   17.2 ppg, 4 reb, 5 ast, 1.6 stl, 0.4 blk, 2 to, (44.6/30.5/84.7)
+PG      Damian Lillard     Anaheim Amigos        818970   18.3 ppg, 3.5 reb, 6.9 ast, 0.8 stl, 0.3 blk, 3 to, (45.4/37.3/88)
+PG      Isaiah Thomas      New Jersey Americans  812085   17.4 ppg, 2.6 reb, 5.5 ast, 1.1 stl, 0.1 blk, 2.1 to, (47.3/36.1/85.9)
+PG/SG   Walt Frazier       Utah Stars            789283   12.9 ppg, 4 reb, 8.5 ast, 2.6 stl, 0.2 blk, 3.1 to, (50/22.6/72.5)
+SG/SF   Paul Arizin        Minnesota Muskies     776889   18 ppg, 5.5 reb, 2.4 ast, 0.9 stl, 0.9 blk, 1.6 to, (48.1/40.7/82.6)
+

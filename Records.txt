@@ -1,0 +1,665 @@
+                              TEAM RECORDS
+
+
+
+                         MOST POINTS -- QUARTER
+
+ 1.  Virginia Squires               81             TOR -- 2nd       51
+ 2.  Utah Stars                     79             BAL -- 1st       51
+ 3.  Utah Stars                     82             DAL -- 1st       50
+ 4.  Virginia Squires               24             SAS -- 3rd       50
+ 5.  Virginia Squires               15             SAS -- 1st       50
+ 6.  Anaheim Amigos                 27             POR -- 2nd       49
+ 7.  Houston Rockets                64             OAK -- 3rd       48
+ 8.  Toronto Raptors                38             BOS -- 3rd       48
+ 9.  San Antonio Spurs              27             OKC -- 2nd       48
+10.  San Antonio Spurs              87             CLE -- 1st       47
+
+
+                        FEWEST POINTS -- QUARTER
+
+ 1.  Oakland Oaks                   74             SDQ -- 4th       10
+ 2.  Denver Nuggets                 39             BAL -- 2nd       10
+ 3.  Brooklyn Nets                  38             WAS -- 1st       10
+ 4.  Cleveland Cavaliers            8              ORL -- 2nd       10
+ 5.  Carolina Cougars               84             WAS -- 1st       11
+ 6.  Brooklyn Nets                  78             BOS -- 3rd       11
+ 7.  Kentucky Colonels              78             ORL -- 4th       11
+ 8.  New Jersey Americans           64             PIT -- 1st       11
+ 9.  Orlando Magic                  51             SYR -- 4th       11
+10.  Detroit Pistons                32             BAL -- 4th       11
+
+
+                         MOST POINTS -- HALF
+
+ 1.  Houston Rockets                64             OAK -- 2nd       94
+ 2.  San Antonio Spurs              27             OKC -- 1st       92
+ 3.  Oklahoma City Thunder          3              SYR -- 1st       84
+ 4.  Pittsburgh Condors             43             SAS -- 1st       83
+ 5.  Toronto Raptors                38             BOS -- 2nd       83
+ 6.  Houston Rockets                36             SAS -- 1st       83
+ 7.  New Jersey Americans           15             MIN -- 1st       83
+ 8.  Miami Floridians               5              OKC -- 2nd       83
+ 9.  Virginia Squires               61             KEN -- 2nd       82
+10.  Virginia Squires               24             SAS -- 2nd       82
+
+
+                       FEWEST POINTS -- HALF
+
+ 1.  Portland Trailblazers          55             HOU -- 1st       26
+ 2.  Brooklyn Nets                  78             BOS -- 2nd       31
+ 3.  Portland Trailblazers          42             PHO -- 2nd       31
+ 4.  Brooklyn Nets                  38             WAS -- 2nd       31
+ 5.  Denver Nuggets                 35             UTA -- 2nd       32
+ 6.  Boston Celtics                 85             DAL -- 2nd       33
+ 7.  Dallas Chaparrals              26             SDQ -- 1st       33
+ 8.  Brooklyn Nets                  75             ORL -- 1st       34
+ 9.  Oakland Oaks                   74             SDQ -- 2nd       34
+10.  Minnesota Muskies              38             TRN -- 2nd       34
+
+
+                       MOST POINTS -- GAME
+
+ 1.  Houston Rockets                64             OAK             159
+ 2.  Utah Stars                     87             OAK             154
+ 3.  Syracuse Nationals       1 OT  79             TRN             154
+ 4.  San Antonio Spurs              27             OKC             154
+ 5.  Virginia Squires               61             KEN             153
+ 6.  Kentucky Colonels              42             PIT             152
+ 7.  Virginia Squires               24             SAS             152
+ 8.  Kentucky Colonels              21             NJA             152
+ 9.  Cleveland Cavaliers            53             OKC             151
+10.  Toronto Raptors                45             PIT             151
+
+
+                      FEWEST POINTS -- GAME
+
+ 1.  Brooklyn Nets                  38             WAS              70
+ 2.  San Diego Qs                   68             ORL              73
+ 3.  Brooklyn Nets                  19             UTA              77
+ 4.  Phoenix Suns                   31             HOU              78
+ 5.  Phoenix Suns                   3              BAL              78
+ 6.  Phoenix Suns                   87             ORL              79
+ 7.  Dallas Chaparrals              21             WAS              79
+ 8.  New Jersey Americans           68             ROC              80
+ 9.  Portland Trailblazers          55             HOU              80
+10.  Detroit Pistons                32             BAL              80
+
+
+                    LARGEST MARGIN OF VICTORY
+
+ 1.  Utah Stars                     19             BRK              61
+ 2.  Washington Wizards             38             BRK              57
+ 3.  Toronto Raptors                73             OKC              52
+ 4.  Miami Floridians               18             CLE              50
+ 5.  Houston Rockets                64             OAK              49
+ 6.  Utah Stars                     70             BRK              48
+ 7.  New Jersey Americans           10             SYR              46
+ 8.  Toronto Raptors                36             OAK              45
+ 9.  Orlando Magic                  75             BRK              44
+10.  Virginia Squires               44             SYR              43
+
+
+                    MOST FIELD GOALS ATTEMPTED
+
+ 1.  Denver Nuggets           1 OT  46             NJA             111
+ 2.  San Diego Qs             1 OT  80             BOS             110
+ 3.  Trenton Cagers           1 OT  79             SYR             109
+ 4.  Oakland Oaks                   43             SDQ             109
+ 5.  Washington Wizards             9              BAL             109
+ 6.  Oakland Oaks                   72             ANA             108
+ 7.  Minnesota Muskies        1 OT  46             BOS             108
+ 8.  Minnesota Muskies              45             ROC             108
+ 9.  Brooklyn Nets            1 OT  27             MIN             108
+10.  Oklahoma City Thunder          1              SYR             108
+
+
+                  FEWEST FIELD GOALS ATTEMPTED
+
+ 1.  New Jersey Americans           68             ROC              62
+ 2.  San Diego Qs                   68             ORL              65
+ 3.  San Diego Qs                   74             OAK              69
+ 4.  Rochester Royals               68             NJA              70
+ 5.  Portland Trailblazers          3              BRK              70
+ 6.  Orlando Magic                  68             SDQ              71
+ 7.  Dallas Chaparrals              52             HOU              71
+ 8.  Portland Trailblazers          42             PHO              71
+ 9.  Toronto Raptors                77             SDQ              74
+10.  Portland Trailblazers          44             PHO              74
+
+
+                    MOST FIELD GOALS MADE
+
+ 1.  Houston Rockets                64             OAK              68
+ 2.  Syracuse Nationals       1 OT  79             TRN              63
+ 3.  Houston Rockets                36             SAS              62
+ 4.  Utah Stars                     87             OAK              60
+ 5.  Oklahoma City Thunder          46             POR              60
+ 6.  Toronto Raptors                31             NJA              60
+ 7.  Kentucky Colonels              21             NJA              60
+ 8.  Trenton Cagers           1 OT  79             SYR              59
+ 9.  Virginia Squires               74             CAR              59
+10.  Detroit Pistons                73             CLE              58
+
+
+                   FEWEST FIELD GOALS MADE
+
+ 1.  Portland Trailblazers          42             PHO              26
+ 2.  Brooklyn Nets                  38             WAS              26
+ 3.  New Jersey Americans           68             ROC              27
+ 4.  Rochester Royals               41             KCO              27
+ 5.  Washington Wizards             2              UTA              27
+ 6.  Dallas Chaparrals              82             UTA              28
+ 7.  Rochester Royals               58             CLE              28
+ 8.  Washington Wizards             89             ORL              29
+ 9.  Phoenix Suns                   31             HOU              29
+10.  Miami Floridians               76             PHO              30
+
+
+                  MOST FREE THROWS ATTEMPTED
+
+ 1.  Toronto Raptors                9              HOU              76
+ 2.  San Diego Qs                   29             NJA              67
+ 3.  San Diego Qs                   90             SAS              66
+ 4.  Anaheim Amigos                 80             OKC              63
+ 5.  Orlando Magic                  6              ROC              62
+ 6.  New Jersey Americans           42             OKC              61
+ 7.  Pittsburgh Condors             80             MIA              60
+ 8.  Pittsburgh Condors             34             POR              59
+ 9.  Pittsburgh Condors             21             BAL              59
+10.  Toronto Raptors                7              ROC              59
+
+
+                 FEWEST FREE THROWS ATTEMPTED
+
+ 1.  Oakland Oaks                   83             SAS               6
+ 2.  Oakland Oaks                   61             DEN               6
+ 3.  Miami Floridians               54             TOR               8
+ 4.  Oakland Oaks                   36             TOR               8
+ 5.  Trenton Cagers                 29             MIA               8
+ 6.  KC-Omaha Kings                 2              MIA               8
+ 7.  Brooklyn Nets                  73             ORL               9
+ 8.  Brooklyn Nets                  70             UTA               9
+ 9.  Syracuse Nationals             66             BAL               9
+10.  Miami Floridians               57             MIN               9
+
+
+                    MOST FREE THROWS MADE
+
+ 1.  Anaheim Amigos                 80             OKC              57
+ 2.  San Diego Qs                   90             SAS              53
+ 3.  Toronto Raptors                9              HOU              52
+ 4.  Pittsburgh Condors             80             MIA              50
+ 5.  San Diego Qs                   29             NJA              50
+ 6.  Rochester Royals               53             UTA              49
+ 7.  Toronto Raptors                7              ROC              49
+ 8.  Toronto Raptors                4              CLE              49
+ 9.  Washington Wizards       1 OT  70             KCO              48
+10.  New Jersey Americans           42             OKC              48
+
+
+                   FEWEST FREE THROWS MADE
+
+ 1.  Baltimore Claws                85             ANA               4
+ 2.  Denver Nuggets                 35             UTA               4
+ 3.  Oakland Oaks                   83             SAS               5
+ 4.  Oklahoma City Thunder          73             TOR               5
+ 5.  Oakland Oaks                   61             DEN               5
+ 6.  Brooklyn Nets                  40             WAS               5
+ 7.  Oakland Oaks                   25             SAS               5
+ 8.  Syracuse Nationals             66             BAL               6
+ 9.  Brooklyn Nets                  48             DAL               6
+10.  Oakland Oaks                   36             TOR               6
+
+
+                   MOST 3-POINTERS ATTEMPTED
+
+ 1.  Toronto Raptors                19             TRN              42
+ 2.  Toronto Raptors                21             TRN              34
+ 3.  Miami Floridians               29             TRN              32
+ 4.  Toronto Raptors                71             OKC              31
+ 5.  Miami Floridians               5              OKC              31
+ 6.  Toronto Raptors                74             BAL              30
+ 7.  Oklahoma City Thunder          53             CLE              30
+ 8.  KC-Omaha Kings                 35             ANA              30
+ 9.  Toronto Raptors                13             ROC              30
+10.  Miami Floridians               10             DEN              30
+
+
+                     MOST 3-POINTERS MADE
+
+ 1.  Toronto Raptors                19             TRN              15
+ 2.  Miami Floridians               11             DAL              15
+ 3.  KC-Omaha Kings                 35             ANA              14
+ 4.  Minnesota Muskies              15             NJA              14
+ 5.  Miami Floridians               54             TOR              13
+ 6.  Utah Stars                     87             OAK              12
+ 7.  Toronto Raptors                74             BAL              12
+ 8.  Minnesota Muskies              67             HOU              12
+ 9.  Miami Floridians               60             MIN              12
+10.  Orlando Magic                  55             PIT              12
+
+
+                   MOST OFFENSIVE REBOUNDS
+
+ 1.  Oakland Oaks                   70             ROC              31
+ 2.  Denver Nuggets                 57             KEN              29
+ 3.  Washington Wizards             9              BAL              29
+ 4.  Miami Floridians               26             TRN              28
+ 5.  Toronto Raptors                9              HOU              28
+ 6.  Denver Nuggets                 56             KEN              26
+ 7.  Virginia Squires               89             ANA              25
+ 8.  Phoenix Suns                   70             DET              25
+ 9.  Minnesota Muskies              36             ROC              25
+10.  Phoenix Suns                   17             NJA              25
+
+
+                  FEWEST OFFENSIVE REBOUNDS
+
+ 1.  Utah Stars                     55             SYR               2
+ 2.  Oklahoma City Thunder          27             SAS               3
+ 3.  New Jersey Americans           79             DAL               4
+ 4.  San Diego Qs                   41             DAL               4
+ 5.  Brooklyn Nets                  20             SAS               4
+ 6.  Boston Celtics                 16             SAS               4
+ 7.  Rochester Royals               78             CAR               5
+ 8.  Virginia Squires               74             CAR               5
+ 9.  Washington Wizards             65             PIT               5
+10.  Anaheim Amigos                 65             UTA               5
+
+
+                   MOST REBOUNDS -- TOTAL
+
+ 1.  Minnesota Muskies              36             ROC              70
+ 2.  Baltimore Claws                32             DET              68
+ 3.  Syracuse Nationals             66             BAL              67
+ 4.  Boston Celtics                 66             DEN              67
+ 5.  Boston Celtics           1 OT  87             ROC              65
+ 6.  Cleveland Cavaliers            58             ROC              65
+ 7.  Anaheim Amigos           1 OT  12             MIN              64
+ 8.  Orlando Magic                  8              CLE              64
+ 9.  Oklahoma City Thunder          82             BRK              63
+10.  Denver Nuggets                 57             KEN              63
+
+
+                  FEWEST REBOUNDS -- TOTAL
+
+ 1.  Oklahoma City Thunder          27             SAS              24
+ 2.  Kentucky Colonels              61             VIR              25
+ 3.  Portland Trailblazers          28             DEN              30
+ 4.  Portland Trailblazers          18             OAK              30
+ 5.  Portland Trailblazers          75             HOU              31
+ 6.  Brooklyn Nets                  70             UTA              31
+ 7.  New Jersey Americans           68             ROC              31
+ 8.  Baltimore Claws                55             TRN              31
+ 9.  Baltimore Claws                27             VIR              31
+10.  KC-Omaha Kings                 24             TOR              31
+
+
+                        MOST ASSISTS
+
+ 1.  Syracuse Nationals       1 OT  79             TRN              50
+ 2.  Syracuse Nationals             71             HOU              48
+ 3.  Oklahoma City Thunder          44             CLE              47
+ 4.  Syracuse Nationals             8              ANA              47
+ 5.  Utah Stars                     87             OAK              46
+ 6.  Houston Rockets                36             SAS              46
+ 7.  Kentucky Colonels              28             ANA              46
+ 8.  Utah Stars                     82             DAL              44
+ 9.  Toronto Raptors                45             PIT              44
+10.  Houston Rockets                64             OAK              43
+
+
+                       FEWEST ASSISTS
+
+ 1.  Denver Nuggets                 78             HOU               8
+ 2.  KC-Omaha Kings                 35             ANA              11
+ 3.  Brooklyn Nets                  83             OKC              13
+ 4.  Brooklyn Nets                  38             WAS              13
+ 5.  Brooklyn Nets                  22             UTA              13
+ 6.  Washington Wizards             89             ORL              14
+ 7.  Rochester Royals               41             KCO              14
+ 8.  Brooklyn Nets                  19             UTA              14
+ 9.  Portland Trailblazers          57             HOU              15
+10.  Brooklyn Nets                  20             SAS              15
+
+
+                     MOST PERSONAL FOULS
+
+ 1.  Houston Rockets                9              TOR              47
+ 2.  Brooklyn Nets                  83             OKC              44
+ 3.  KC-Omaha Kings           1 OT  70             WAS              43
+ 4.  New Jersey Americans           29             SDQ              43
+ 5.  Phoenix Suns                   18             OKC              43
+ 6.  Oklahoma City Thunder          69             CAR              42
+ 7.  Pittsburgh Condors             53             WAS              42
+ 8.  Brooklyn Nets                  50             BAL              42
+ 9.  Detroit Pistons                40             POR              42
+10.  Brooklyn Nets                  29             SYR              42
+
+
+                    FEWEST PERSONAL FOULS
+
+ 1.  Minnesota Muskies              57             MIA              10
+ 2.  Utah Stars                     58             OAK              11
+ 3.  Miami Floridians               29             TRN              12
+ 4.  Toronto Raptors                42             BRK              13
+ 5.  Washington Wizards             28             CLE              13
+ 6.  Carolina Cougars               8              KCO              13
+ 7.  Syracuse Nationals             7              OAK              13
+ 8.  San Antonio Spurs              83             OAK              14
+ 9.  Anaheim Amigos                 39             UTA              14
+10.  Utah Stars                     35             DEN              14
+
+
+                     MOST BLOCKED SHOTS
+
+ 1.  Baltimore Claws                61             SYR              16
+ 2.  Orlando Magic                  87             PHO              15
+ 3.  Miami Floridians         1 OT  42             BAL              15
+ 4.  Baltimore Claws                39             DEN              15
+ 5.  Trenton Cagers                 45             KCO              14
+ 6.  Rochester Royals               9              ORL              14
+ 7.  New Jersey Americans           2              DET              14
+ 8.  Cleveland Cavaliers            90             MIA              13
+ 9.  Pittsburgh Condors             81             DET              13
+10.  Washington Wizards             81             MIN              13
+
+
+                        MOST TURNOVERS
+
+ 1.  Toronto Raptors                77             SDQ              34
+ 2.  Oakland Oaks                   51             OKC              32
+ 3.  Portland Trailblazers          82             BAL              31
+ 4.  Pittsburgh Condors             69             BOS              30
+ 5.  Syracuse Nationals             17             BOS              30
+ 6.  Miami Floridians               6              OKC              30
+ 7.  Anaheim Amigos                 60             ORL              29
+ 8.  Portland Trailblazers          42             PHO              29
+ 9.  Oakland Oaks                   40             SDQ              29
+10.  Toronto Raptors                84             PHO              28
+
+
+                       FEWEST TURNOVERS
+
+ 1.  Minnesota Muskies              79             WAS               5
+ 2.  Washington Wizards             28             CLE               5
+ 3.  Miami Floridians               18             CLE               5
+ 4.  San Antonio Spurs              66             KCO               6
+ 5.  Carolina Cougars               11             DEN               6
+ 6.  Miami Floridians               90             CLE               7
+ 7.  Denver Nuggets                 22             MIN               7
+ 8.  San Diego Qs                   14             ROC               7
+ 9.  New Jersey Americans           10             SYR               7
+10.  Miami Floridians               78             OAK               8
+
+
+                         MOST STEALS
+
+ 1.  Oklahoma City Thunder          51             OAK              22
+ 2.  Detroit Pistons                34             UTA              22
+ 3.  Baltimore Claws                3              PHO              22
+ 4.  Baltimore Claws                44             MIA              21
+ 5.  Houston Rockets                35             SAS              21
+ 6.  Baltimore Claws                31             DET              21
+ 7.  Pittsburgh Condors             22             ROC              21
+ 8.  Boston Celtics                 14             SAS              21
+ 9.  Baltimore Claws                12             WAS              21
+10.  Baltimore Claws                82             POR              20
+
+
+                         FEWEST STEALS
+
+ 1.  Rochester Royals               53             UTA               1
+ 2.  Boston Celtics           1 OT  46             MIN               2
+ 3.  San Diego Qs                   43             OAK               2
+ 4.  Cleveland Cavaliers            28             WAS               2
+ 5.  Denver Nuggets                 25             SYR               2
+ 6.  New Jersey Americans           21             KEN               2
+ 7.  Kentucky Colonels              11             CLE               2
+ 8.  Syracuse Nationals             10             NJA               2
+ 9.  Kentucky Colonels              9              CLE               2
+10.  Dallas Chaparrals              2              PIT               2
+
+
+
+                        INDIVIDUAL RECORDS
+
+
+
+                           MOST POINTS
+
+ 1.  Bobby McDermott -- DEN   1 OT  82             SDQ              45
+ 2.  Hank Luisetti -- DAL           18             KEN              45
+ 3.  Kobe Bryant -- SDQ       1 OT  80             BOS              44
+ 4.  LeBron James -- SYR            71             HOU              44
+ 5.  Carmelo Anthony -- CLE         53             OKC              44
+ 6.  Al Green -- CLE                44             OKC              44
+ 7.  Stephen Curry -- VIR           79             TOR              42
+ 8.  Stephen Curry -- VIR           74             CAR              42
+ 9.  Michael Jordan -- DET          42             CAR              42
+10.  Amare Stoudemire -- POR        3              BRK              41
+
+
+                          MOST MINUTES
+
+ 1.  Spencer Haywood -- ROC   1 OT  87             BOS              46
+ 2.  Tiny Archibald -- TRN    1 OT  79             SYR              46
+ 3.  Jerry Lucas -- WAS       1 OT  70             KCO              46
+ 4.  Richie Guerin -- KEN           47             MIA              46
+ 5.  Tiny Archibald -- TRN          45             KCO              46
+ 6.  Richie Guerin -- KEN           35             BRK              46
+ 7.  Richie Guerin -- KEN           32             BOS              46
+ 8.  Kobe Bryant -- SDQ       1 OT  82             DEN              45
+ 9.  Kobe Bryant -- SDQ       1 OT  80             BOS              45
+10.  Walt Frazier -- UTA            51             TRN              45
+
+
+                    MOST FIELD GOALS ATTEMPTED
+
+ 1.  Michael Adams -- TOR           13             ROC              32
+ 2.  Kobe Bryant -- SDQ       1 OT  80             BOS              31
+ 3.  Hank Luisetti -- DAL           18             KEN              31
+ 4.  Mark Aguirre -- ORL            51             SYR              30
+ 5.  Gilbert Arenas -- PIT          2              DAL              29
+ 6.  Bobby McDermott -- DEN   1 OT  82             SDQ              28
+ 7.  Lou Hudson -- MIA              81             HOU              28
+ 8.  Carmelo Anthony -- CLE         60             PIT              28
+ 9.  Nikola Vucevic -- TRN          85             DEN              27
+10.  Kobe Bryant -- SDQ             84             MIN              27
+
+
+                       MOST FIELD GOALS MADE
+
+ 1.  Michael Jordan -- DET          42             CAR              19
+ 2.  Hank Luisetti -- DAL           18             KEN              18
+ 3.  Kobe Bryant -- SDQ       1 OT  80             BOS              17
+ 4.  Stephen Curry -- VIR           74             CAR              17
+ 5.  LeBron James -- SYR            71             HOU              17
+ 6.  Dirk Nowitzki -- DAL           34             VIR              17
+ 7.  Michael Finley -- CAR          25             BOS              17
+ 8.  Yao Ming -- MIA                16             CLE              17
+ 9.  Bobby McDermott -- DEN   1 OT  82             SDQ              16
+10.  Stephen Curry -- VIR           79             TOR              16
+
+
+                    MOST FREE THROWS ATTEMPTED
+
+ 1.  Allen Iverson -- OKC           87             DAL              22
+ 2.  Gilbert Arenas -- PIT          76             POR              22
+ 3.  Jerry Stackhouse -- NJA        41             OKC              22
+ 4.  James Harden -- BOS      1 OT  80             SDQ              21
+ 5.  Jack Twyman -- ROC             65             PHO              20
+ 6.  Karl Malone -- TOR             14             BAL              19
+ 7.  Demarcus Cousins -- OKC        90             TRN              18
+ 8.  Andre Drummond -- DEN          72             ORL              18
+ 9.  Jerry Stackhouse -- NJA        54             KCO              18
+10.  Carmelo Anthony -- CLE         53             OKC              18
+
+
+                      MOST FREE THROWS MADE
+
+ 1.  Jerry Stackhouse -- NJA        41             OKC              20
+ 2.  Allen Iverson -- OKC           87             DAL              17
+ 3.  Kevin Durant -- HOU            50             DAL              17
+ 4.  Kobe Bryant -- SDQ             90             SAS              16
+ 5.  Gilbert Arenas -- PIT          76             POR              16
+ 6.  Carmelo Anthony -- CLE         53             OKC              16
+ 7.  Tiny Archibald -- TRN          36             PHO              16
+ 8.  Tiny Archibald -- TRN          84             POR              15
+ 9.  James Harden -- BOS      1 OT  80             SDQ              15
+10.  Kobe Bryant -- SDQ             74             OAK              15
+
+
+                     MOST 3-POINTERS ATTEMPTED
+
+ 1.  Michael Adams -- TOR           19             TRN              18
+ 2.  Michael Adams -- TOR           13             ROC              18
+ 3.  Stephen Curry -- VIR           59             KEN              16
+ 4.  Peja Stojakovic -- MIN         58             MIA              14
+ 5.  Stephen Curry -- VIR           89             ANA              13
+ 6.  Michael Adams -- TOR           54             MIA              13
+ 7.  Peja Stojakovic -- MIN         15             NJA              13
+ 8.  Mark Price -- MIA              5              OKC              13
+ 9.  Stephen Curry -- VIR           88             TOR              12
+10.  Michael Adams -- TOR           84             PHO              12
+
+
+                       MOST 3-POINTERS MADE
+
+ 1.  Peja Stojakovic -- MIN         15             NJA               9
+ 2.  Peja Stojakovic -- MIN         58             MIA               8
+ 3.  Stephen Curry -- VIR           59             KEN               7
+ 4.  Jim Paxson -- ORL              55             PIT               7
+ 5.  Eddie Jones -- KCO             35             ANA               7
+ 6.  Stephen Curry -- VIR           27             BAL               7
+ 7.  Michael Adams -- TOR           14             BAL               7
+ 8.  Michael Adams -- TOR           13             ROC               7
+ 9.  Mark Price -- MIA              5              OKC               7
+10.  Oscar Schmidt -- TOR           1              CLE               7
+
+
+                     MOST OFFENSIVE REBOUNDS
+
+ 1.  Jerry Lucas -- WAS             9              BAL              14
+ 2.  Wilt Chamberlain -- ORL        89             WAS              11
+ 3.  Andre Drummond -- DEN          87             TRN              11
+ 4.  Jabari Parker -- OAK           70             ROC              11
+ 5.  Enes Kanter -- OAK             80             DET              10
+ 6.  Wilt Chamberlain -- ORL        73             BRK              10
+ 7.  Kenneth Faried -- PHO          70             DET              10
+ 8.  Wilt Chamberlain -- ORL        60             ANA              10
+ 9.  Andre Drummond -- DEN          57             KEN              10
+10.  Wilt Chamberlain -- ORL        48             SYR              10
+
+
+                     MOST REBOUNDS -- TOTAL
+
+ 1.  Walt Bellamy -- SDQ            59             WAS              23
+ 2.  Wilt Chamberlain -- ORL        8              CLE              23
+ 3.  Tarzan Cooper -- BAL           32             DET              22
+ 4.  Jerry Lucas -- WAS             9              BAL              22
+ 5.  Wilt Chamberlain -- ORL        89             WAS              21
+ 6.  Wilt Chamberlain -- ORL        48             SYR              21
+ 7.  Wilt Chamberlain -- ORL        38             CLE              21
+ 8.  Jerry Lucas -- WAS             21             DAL              21
+ 9.  Jerry Lucas -- WAS             11             ROC              21
+10.  Andre Drummond -- DEN          87             TRN              20
+
+
+                         MOST ASSISTS
+
+ 1.  Jason Kidd -- MIN              67             HOU              21
+ 2.  Kevin Johnson -- DAL           39             OKC              20
+ 3.  Tiny Archibald -- TRN          24             PIT              20
+ 4.  Ray Williams -- SDQ      1 OT  82             DEN              19
+ 5.  John Stockton -- DET           50             KEN              19
+ 6.  Kevin Johnson -- DAL           90             UTA              18
+ 7.  Kevin Johnson -- DAL           61             BOS              18
+ 8.  Jason Kidd -- MIN              23             BOS              18
+ 9.  Kevin Johnson -- DAL           19             KEN              18
+10.  Jason Kidd -- MIN              18             NJA              18
+
+
+                         MOST BLOCKS
+
+ 1.  Elmore Smith -- ROC            9              ORL               9
+ 2.  Clyde Lovellette -- MIN        1              DAL               8
+ 3.  Nate Thurmond -- PHO           87             ORL               7
+ 4.  Wilt Chamberlain -- ORL        75             BRK               7
+ 5.  Bob Lanier -- WAS        1 OT  70             KCO               7
+ 6.  Goose Tatum -- OKC             69             CAR               7
+ 7.  Bob Kurland -- KCO             89             DET               6
+ 8.  Bob Lanier -- WAS              88             CAR               6
+ 9.  Wilt Chamberlain -- ORL        87             PHO               6
+10.  Marcus Camby -- CLE            87             SAS               6
+
+
+                       MOST TURNOVERS
+
+ 1.  Russell Westbrook -- SAS       12             BRK              12
+ 2.  Russell Westbrook -- SAS       85             CLE              11
+ 3.  Walt Frazier -- UTA            34             DET              11
+ 4.  Bob Cousy -- BAL               86             NJA              10
+ 5.  Russell Westbrook -- SAS       78             PHO              10
+ 6.  Russell Westbrook -- SAS       73             DAL              10
+ 7.  Gilbert Arenas -- PIT          69             BOS              10
+ 8.  James Harden -- BOS            58             OKC              10
+ 9.  Kyle Lowry -- PHO              56             NJA              10
+10.  LeBron James -- SYR            36             DET              10
+
+
+                        MOST STEALS
+
+ 1.  Chris Paul -- HOU        1 OT  24             DET              11
+ 2.  Walt Frazier -- UTA            32             MIA               9
+ 3.  Fat Lever -- SAS               85             CLE               8
+ 4.  Fat Lever -- SAS               83             OAK               8
+ 5.  Chris Paul -- HOU              67             MIN               8
+ 6.  Victor Oladipo -- BOS          14             SAS               8
+ 7.  Bob Cousy -- BAL               82             POR               7
+ 8.  Doug Christie -- BAL           77             UTA               7
+ 9.  Russell Westbrook -- SAS       67             DAL               7
+10.  Nat Holman -- BRK              57             CLE               7
+
+
+                     HIGHEST TOTAL RATING -- GAME
+
+ 1.  Russell Westbrook -- SAS       67             DAL            54.2
+ 2.  Stephen Curry -- VIR           74             CAR            50.8
+ 3.  Michael Jordan -- DET          42             CAR            47.9
+ 4.  Stephen Curry -- VIR           79             TOR            46.7
+ 5.  Hank Luisetti -- DAL           18             KEN            46.2
+ 6.  Chris Mullin -- ANA            73             NJA            45.8
+ 7.  Rudy Tomjanovich -- UTA        70             BRK            45.2
+ 8.  Peja Stojakovic -- MIN         23             BOS            45.2
+ 9.  Chris Mullin -- ANA            82             CLE            45.1
+10.  Bob Lanier -- WAS              41             BOS            44.9
+
+
+                   HIGHEST OFFENSIVE RATING -- GAME
+
+ 1.  Stephen Curry -- VIR           74             CAR            49.1
+ 2.  Michael Jordan -- DET          42             CAR            44.3
+ 3.  Chris Mullin -- ANA            82             CLE            43.9
+ 4.  Stephen Curry -- VIR           79             TOR            43.5
+ 5.  Russell Westbrook -- SAS       67             DAL            43.4
+ 6.  Jim Paxson -- ORL              55             PIT            43.2
+ 7.  Al Green -- CLE                44             OKC            42.9
+ 8.  Lou Hudson -- MIA              54             TOR            41.7
+ 9.  Chris Mullin -- ANA            73             NJA            41.7
+10.  Rudy Tomjanovich -- UTA        70             BRK            41.1
+
+
+                   HIGHEST DEFENSIVE RATING -- GAME
+
+ 1.  Chris Paul -- HOU         1 OT 24             DET            13.8
+ 2.  Clyde Lovellette -- MIN        1              DAL            13.4
+ 3.  Elmore Smith -- ROC            9              ORL            12.6
+ 4.  Tarzan Cooper -- BAL           61             SYR            12.5
+ 5.  Wilt Chamberlain -- ORL        78             KEN            12.3
+ 6.  Cliff Hagan -- PIT             65             WAS            12.3
+ 7.  Maurice Stokes -- SYR          53             KCO            12.2
+ 8.  Fat Lever -- SAS               83             OAK            12.0
+ 9.  Andre Drummond -- DEN          44             DAL            11.9
+10.  Wilt Chamberlain -- ORL        11             BAL            11.5

@@ -1,0 +1,36 @@
+                                    POWER RATINGS
+
+This  Last                                  Adj.      Opp.     Power    Weekly     Pts
+Week  Week   Team                          Record    Record    Rating    Diff.    Diff.
+---------------------------------------------------------------------------------------
+
+  1.    1.   Orlando Magic                  0.838    0.459     0.860    +0.000   +12.6
+  2.    2.   San Diego Qs                   0.737    0.507     0.777    +0.000    +4.4
+  3.    3.   Houston Rockets                0.773    0.461     0.764    +0.000    +8.1
+  4.    4.   Virginia Squires               0.701    0.505     0.760     0.000    +8.5
+  5.    5.   Washington Wizards             0.715    0.483     0.731    +0.000    +6.4
+  6.    6.   Detroit Pistons                0.665    0.517     0.729    +0.000    +6.9
+  7.    7.   Utah Stars                     0.735    0.447     0.727    +0.000   +11.4
+  8.    8.   Minnesota Muskies              0.625    0.545     0.713    +0.000    +5.2
+  9.    9.   Syracuse Nationals             0.648    0.497     0.657    +0.000    +2.2
+ 10.   10.   Toronto Raptors                0.572    0.529     0.641    +0.000    +6.9
+ 11.   11.   Anaheim Amigos                 0.572    0.510     0.597    +0.000    +2.8
+ 12.   12.   Pittsburgh Condors             0.559    0.513     0.577    +0.000    +0.7
+ 13.   13.   Miami Floridians               0.455    0.567     0.524    +0.000    +1.7
+ 14.   14.   San Antonio Spurs              0.515    0.487     0.517    +0.000    +3.6
+ 15.   15.   Kentucky Colonels              0.515    0.494     0.509    +0.000    +0.0
+ 16.   16.   New Jersey Americans           0.539    0.455     0.492    +0.000    +0.4
+ 17.   17.   Trenton Cagers                 0.487    0.463     0.454    +0.000    +0.8
+ 18.   18.   Oklahoma City Thunder          0.485    0.421     0.408     0.000    +0.0
+ 19.   19.   Cleveland Cavaliers            0.417    0.514     0.404    +0.000    -6.8
+ 20.   20.   Dallas Chaparrals              0.382    0.535     0.396     0.000    -3.8
+ 21.   21.   KC-Omaha Kings                 0.385    0.523     0.394    +0.000    -2.7
+ 22.   22.   Baltimore Claws                0.397    0.498     0.378     0.000    -5.2
+ 23.   23.   Boston Celtics                 0.397    0.483     0.373     0.000    -2.9
+ 24.   24.   Rochester Royals               0.409    0.464     0.366     0.000    -4.0
+ 25.   25.   Phoenix Suns                   0.349    0.527     0.354    +0.000    -4.4
+ 26.   26.   Denver Nuggets                 0.344    0.484     0.310    +0.000    -7.9
+ 27.   27.   Portland Trailblazers          0.272    0.512     0.264     0.000    -6.0
+ 28.   28.   Carolina Cougars               0.263    0.483     0.242    +0.000    -5.5
+ 29.   29.   Oakland Oaks                   0.182    0.556     0.179    +0.000   -13.8
+ 30.   30.   Brooklyn Nets                  0.075    0.527     0.067    +0.000   -18.3
